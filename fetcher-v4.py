@@ -82,25 +82,25 @@ for line in Lines:
         if domain == 'oldnicksite.wordpress.com':
             post_title = post_init.find(class_="entry-title")
             title_content = str(post_title.contents[0])
-            post_content = post_init.select('.entry-content > p')
+            post_content = post_init.select('.entry-content')
             post_date = post_init.find(class_="entry-date published")
             date_content = str(post_date.contents[0])
         elif domain == 'www.uf-blog.net':
             post_title = post_init.find(class_="entry-title")
             title_content = str(post_title.contents[0])
-            post_content = post_init.select('.entry-content > p')
+            post_content = post_init.select('.entry-content')
             post_date = post_init.find(class_="entry-date")
             date_content = str(post_date.contents[0])
         elif domain == 'www.xenosystems.net':
             post_title = post_init.select(".post > h2")
             title_content = str(post_title[0].contents[0])
-            post_content = post_init.select('.entry > p')
+            post_content = post_init.select('.entry')
             post_date = post_init.find(class_="time")
             date_content = str(post_date.contents[0])
         elif domain == 'jacobitemag.com':
             post_title = post_init.find(class_="post-title")
             title_content = str(post_title.contents[0])
-            post_content = post_init.select('.article-content > p')
+            post_content = post_init.select('.article-content')
             post_date = post_init.find(class_="date")
             date_content = str(post_date.contents[0])
         elif domain == 'www.wdw.nl':
