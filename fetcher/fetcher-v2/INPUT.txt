@@ -1,0 +1,1313 @@
+*VOLUME I - URBAN FUTURE: Views from the Decopunk Delta
++CHAPTER I - URBAN FUTURE
+-O_introducing-urban-future
+-O_eternal-return-and-after
+-O_beyond-urbanization
+-U_an-introduction-to-urbanomy
+-O_event-horizon
+-O_implosion
+-O_scaly-creatures
+-O_edward-glaeser-on-triumph-of-the-city
+-U_our-cause
+-U_the-urban-factor
+-X_urban-defense
+-X_london
+-X_london-ii
+-X_parametrics-and-provocation
+-X_free-cities
+-J_modernitys-fertility-problem
++CHAPTER II - TEMPLEXITY
+-O_time-in-transition
+-O_a-time-travelers-guide-to-shanghai-part-1
+-O_a-time-travelers-guide-to-shanghai-part-2
+-O_a-time-travelers-guide-to-shanghai-part-3
+-O_calendric-dominion
+-O_calendric-dominion-part-2
+-O_calendric-dominion-part-3
+-O_calendric-dominion-part-4
+-O_calendric-dominion-part-5
+-O_calendric-dominion-part-6
+-O_twisted-times-part-1
+-X_extropy
+-X_big-bang-an-appreciation
+-X_cosmological-infancy/
+-X_space-is-big
+-U_climate-of-uncertainty
+-U_time-spiral
+-X_t-shirt-slogans-13
+-X_quote-notes-7
+-U_the-shape-of-time-part-1
+-U_the-shape-of-time-part-2
+-U_the-shape-of-time-part-2a
+-X_greer
+-X_time-scales
+-X_perspective
+-U_tackling-templexity
+-U_time-discipline
+-X_templexity
+-U_templexity-is-out
+-X_quote-note-245
+-X_1930-somethings
+-U_the-decopunk-delta
+-U_gardens-of-time-part-1
+-U_anachronistic-oedipus
+-U_time-cube
+-X_interstellar
+-U_templexity-matters
+-X_edge-of-tomorrow
+-U_synthetic-templexity
++CHAPTER III - APOCALYPSES
+-O_nemesis
+-O_bonfire-of-the-vanities
+-O_cant-kick-the-habit
+-U_hubris
+-X_kicking-the-can
+-X_2017-2
+-X_quote-notes-70
+-X_collapse-schedules
+-X_suspense
+-O_suspended-animation
+-O_suspended-animation-part-2
+-O_suspended-animation-part-3
+-O_suspended-animation-part-4
+-O_suspended-animation-part-5
+-X_apocalometer
+-O_perfect-storm
+-O_new-year-cheer
+-O_end-games
+-O_peak-people
+-O_hard-futurism
+-O_kinds-of-killing
+-O_the-god-confusion
+-X_wild-cards
+-U_gibsons-nightmare
+-X_doomcore
+-X_glide-path
+-X_smod
+-X_the-rights-stuff
+-X_trash-space
+-X_meanwhile-in-paris
+-X_report-from-a-madhouse
+-X_twitter-cuts-60
+-X_its-come-to-this
+-X_current-mood
+-X_progress
+-X_progress-ii
+-X_downton-on-down
+-X_doom-paul
+-X_pedal-to-the-metal
+-X_suspended-reality
+-X_extreme-games
+-X_soon
+-X_meanwhile-in-venezuela
+=SECTION A - ACCELERATION
+-O_moore-and-more
+-U_twisted-into-being
+-U_foundations-of-acceleration
+-O_2035-probably-earlier
+-O_statistical-mentality
+-O_anthropocene
+-U_technological-determination
+-O_connectivity
+-U_brain-net
+-U_speed-reading
+-X_bespoke-singularities
+-U_twitter-mind
+-U_twitter-mind-1
+-O_chiang-kai-shek-of-the-machine-to-seek
+-U_quotable-31
+-U_demonetization
+-U_eter9
+-U_secretaries
+-U_game-over
+-X_machine-poetry
+-U_internet-fragmentation
+-U_cultural-speciation
+-U_cultural-speciation-ii
+-U_new-media
+-U_twitter-cuts-127
+-O_decelerando
+-O_the-ultimate-deal
+-U_impact-readiness
+-U_make-it-stop-ii
+-O_political-humor
+-U_quotable-184
+-U_out-of-time
+-J_a-quick-and-dirty-introduction-to-accelerationism
+--ON LEFT ACCELERATIONISM
+Accelerate - http://www.uf-blog.net/accelerate/ [FEBRUARY 13, 2014]
+Annotated #Accelerate (#1) - http://www.uf-blog.net/annotated-accelerate-1/ [FEBRUARY 14, 2014]
+Annotated #Accelerate (#2) - http://www.uf-blog.net/annotated-accelerate-2/ [FEBRUARY 15, 2014]
+Annotated #Accelerate (#3) - http://www.uf-blog.net/annotated-accelerate-3/ [FEBRUARY 17, 2014]
+Quotable (#4) - http://www.uf-blog.net/quotable-4/ [FEBRUARY 18, 2014]
+On #Accelerate - http://www.uf-blog.net/on-accelerate-1/ [MARCH 5, 2014]
+On #Accelerate (#2a) - http://www.uf-blog.net/on-accelerate-2a/ [MARCH 6, 2014]
+On #Accelerate (#2b) - http://www.uf-blog.net/on-accelerate-2b/ [MARCH 7, 2014]
+On #Accelerate (#2c) - http://www.uf-blog.net/on-accelerate-2c/ [MARCH 11, 2014]
+The Left Turn - http://www.uf-blog.net/the-left-turn/ [JULY 17, 2014]
+Accelero-schism - http://www.uf-blog.net/accelero-schism/ [JULY 21, 2014]
+Twitter cuts (#12) - http://www.uf-blog.net/twitter-cuts-12/ [AUGUST 21, 2014]
+Twitter cuts (#41) - http://www.uf-blog.net/twitter-cuts-41/ [MARCH 24, 2015]
+Accelerationism in One Country - http://www.uf-blog.net/accelerationism-in-one-country/ [NOVEMBER 9, 2015]
+Quotable (#122) - http://www.uf-blog.net/quotable-122/ [NOVEMBER 25, 2015]
+Twitter cuts (#104) - http://www.uf-blog.net/twitter-cuts-104/ [MARCH 20, 2016]
+Twitter cuts (#145) - http://www.uf-blog.net/twitter-cuts-145/ [NOVEMBER 19, 2016]
+
+BITCOIN / BLOCKCHAIN TECHNOLOGY
+Bits and Pieces - https://oldnicksite.wordpress.com/2011/06/23/bits-and-pieces/ [JUNE 23, 2011]	| btc facets
+The Internet of Money - http://www.xenosystems.net/the-internet-of-money/ [JANUARY 10, 2014]	|
+Monetary Reality - http://www.xenosystems.net/monetary-reality/ [MARCH 4, 2014]			|
+Distributors - http://www.xenosystems.net/distributors/ [APRIL 8, 2014]				|
+Bitcoin Backend - http://www.uf-blog.net/bitcoin-backend/ [AUGUST 15, 2014]			|
+Trustless Convergence - http://www.uf-blog.net/trustless-convergence/ [DECEMBER 9, 2014]		|
+On the Table - http://www.uf-blog.net/on-the-table/ [DECEMBER 17, 2014]				|
+Bitcoin as SOCI - http://www.uf-blog.net/bitcoin-as-soci/ [FEBRUARY 23, 2016]			|
+Countdown - http://www.xenosystems.net/countdown/ [JULY 9, 2016]				|
+Bitcoin vs Leviathan - http://www.xenosystems.net/bitcoin-vs-leviathan/ [MARCH 1, 2013]		| btc death
+Bitcoin Horror Stories - http://www.xenosystems.net/bitcoin-horror-stories/ [MARCH 5, 2013]	|
+Satoshi Nakamoto Night - http://www.xenosystems.net/satoshi-nakamoto-night/ [OCTOBER 31, 2015]	|
+The Future of Bitcoin - http://www.xenosystems.net/the-future-of-bitcoin/ [MARCH 20, 2013]	|
+BTC End Times? - http://www.xenosystems.net/btc-end-times/ [MAY 16, 2013]			|
+Will Bitcoin Survive? - http://www.uf-blog.net/will-bitcoin-survive/ [FEBRUARY 26, 2014]		|
+Undead - http://www.xenosystems.net/undead/ [DECEMBER 1, 2014]					|
+Hype Waves - http://www.uf-blog.net/hype-waves/ [JANUARY 14, 2015]				|
+Hype Waves II - http://www.uf-blog.net/hype-waves-ii/ [FEBRUARY 26, 2015]			|
+Dissociation - http://www.uf-blog.net/dissociation/ [JULY 16, 2015]				|
+Quote note (#282) - http://www.xenosystems.net/quote-note-282/ [SEPTEMBER 9, 2016]		|
+Bitcoin and Chains - http://www.uf-blog.net/btc-in-the-nation/ [MAY 9, 2014]			| btc politcs
+Techno-Leviathan - http://www.uf-blog.net/techno-leviathan/ [JUNE 3, 2014]			|
+Interesting Times - http://www.uf-blog.net/interesting-times/ [JULY 24, 2015]			|
+Anti-Cap - http://www.uf-blog.net/anti-cap/ [AUGUST 28, 2015]					|
+Crypto-Comedy - http://www.uf-blog.net/crypto-comedy/ [JANUARY 15, 2016]				|
+Crypto-Power - http://www.xenosystems.net/crypto-power/ [FEBRUARY 18, 2016]			|
+Speaking personally ... - http://www.uf-blog.net/speaking-personally/ [DECEMBER 19, 2014]	| blockchain techs -DAO
+DAO - http://www.xenosystems.net/dao/ [MAY 23, 2016]						|
+DAO in the dust - http://www.uf-blog.net/dao-in-the-dust/ [JUNE 19, 2016]			|
+Urbit - http://www.xenosystems.net/urbit/ [SEPTEMBER 26, 2015]					| -urbit
+Beyond IP Addresses? - http://www.xenosystems.net/beyond-ip-addresses/ [NOVEMBER 3, 2015]	| -decentralized internet
+21 Bitcoin Computer - http://www.xenosystems.net/21-bitcoin-computer/ [NOVEMBER 28, 2015]	| -micropayments
+Micropayments Marketplace - http://www.uf-blog.net/micropayments-marketplace/ [MARCH 16, 2016]	| 
+Bitcoin on the Silk Road - http://www.uf-blog.net/bitcoin-on-the-silk-road/ [OCTOBER 24, 2013]										|china and btc
+Bitcoin's Eastern Future - http://www.uf-blog.net/bitcoins-eastern-future/ [NOVEMBER 20, 2013]										|
+BTC East (again)  - http://www.uf-blog.net/btc-east-again/ [NOVEMBER 26, 2013]												|
+BTC East (again) II - http://www.uf-blog.net/btc-east-again-ii/ [MARCH 11, 2015]												|
+Hegemonic Headaches - http://www.uf-blog.net/hegemonic-headaches/ [APRIL 16, 2014]											|-international reserve
+Petrodollar Provocation - http://www.uf-blog.net/petrodollar-provocations/ [JULY 2, 2014]										|
+Sinocoin - http://www.xenosystems.net/sinocoin/ [JUNE 7, 2013]														|
+Bitcoin Geopolitcs - http://www.uf-blog.net/bitcoin-geopolitics/ [SEPTEMBER 4, 2014]											|
+China, Crypto-Currency, and the World Order, Part 1: Tribute and Tribulations - https://www.wdw.nl/en/review/desk/china_crypto_currency_and_the_world_order [MAY, 2014]	|
+China, Crypto-Currency, and the World Order, Part 2: Digital Denominations - https://www.wdw.nl/en/review/desk/china_crypto_currency_and_the_world_order_part_2 [JUNE 2014]	|
+China, Crypto-Currency, and the World Order, Part 3: Clone Wars - https://www.wdw.nl/en/review/desk/china_crypto_currency_and_the_world_order_part_3 [SEPTEMBER 2014]		|
+
+
+SINGLOSPHERE
+Singlosphere - https://oldnicksite.wordpress.com/2011/05/26/singlosphere/ [MAY 26, 2011]	| primers
+Pacific Rim - http://www.xenosystems.net/pacific-rim/ [SEPTEMBER 15, 2013]			|
+Quote note (#119) - http://www.xenosystems.net/quote-note-119/ [OCTOBER 17, 2014]		|
+Mackinder in Beijing - http://www.xenosystems.net/mackinder-in-beijing/ [JUNE 10, 2015]		|
+Reign of the Tripod - https://oldnicksite.wordpress.com/2011/09/23/reign-of-the-tripod/ [SEPTEMBER 23, 2011]	| culture
+Numbo Zhongo - http://www.xenosystems.net/numbo-zhongo/ [AUGUST 22, 2013]					|
+Tianming - http://www.uf-blog.net/tianming/ [AUGUST 22, 2013]							|
+Scary Chinese - http://www.uf-blog.net/scary-chinese/ [SEPTEMBER 30, 2013]					|
+Sino-Robotics - http://www.uf-blog.net/sino-robotics/ [SEPTEMBER 18, 2015]					|
+Oppressionless - http://www.uf-blog.net/oppressionless/ [APRIL 4, 2014]						|
+Twitter cuts (#10) - http://www.uf-blog.net/twitter-cuts-10/ [AUGUST 12, 2014]					|
+'Not Religious' - http://www.uf-blog.net/not-religious/ [OCTOBER 7, 2014]					|
+Heavenly Signs - http://www.xenosystems.net/heavenly-signs/ [OCTOBER 14, 2014]					|
+Gloom-Core - http://www.uf-blog.net/gloom-core/ [OCTOBER 28, 2014]						|
+?? - http://www.xenosystems.net/%E7%99%BD%E5%B7%A6/ [MAY 14, 2017]						|
+Chimerica - https://oldnicksite.wordpress.com/2011/06/01/chimerica/ [JUNE 1, 2011]	| economy /  policy
+Handling China - http://www.xenosystems.net/handling-china/ [DECEMBER 20, 2013]		|
+Emergent Properties - http://www.uf-blog.net/emergent-properties/ [AUGUST 2, 2013]	|
+383 - http://www.uf-blog.net/383/ [NOVEMBER 12, 2013]					|
+Market Leninism - http://www.uf-blog.net/market-leninism/ [NOVEMBER 13, 2013]		|
+Quote notes (#91) - http://www.xenosystems.net/quote-notes-91/ [JUNE 23, 2014]		|
+Phase Change - http://www.uf-blog.net/phase-change/ [JULY 15, 2014]			|
+Twitter cuts (#16) - http://www.uf-blog.net/twitter-cuts-16/ [SEPTEMBER 29, 2014]	|
+China and the Net - http://www.uf-blog.net/china-and-the-net/ [DECEMBER 4, 2014]		|
+Digital Sovereignty - http://www.uf-blog.net/digital-sovereignty/ [JUNE 30, 2016]	|
+Drone Business - http://www.uf-blog.net/drone-business/ [FEBRUARY 5, 2015]		|
+Quote note (#327) - http://www.xenosystems.net/quote-note-327/ [FEBRUARY 3, 2017]	|
+Switch - http://www.uf-blog.net/switch/ [DECEMBER 5, 2014]				|
+Death Valley - http://www.uf-blog.net/death-valley/ [AUGUST 25, 2015]			|
+Huge News (if true) - http://www.xenosystems.net/huge-news-if-true/ [AUGUST 27, 2015]	|
+Re-Animator (Part 1) - https://oldnicksite.wordpress.com/2011/08/04/re-animator-part-1/ [AUGUST 4, 2011]	| urban development
+Re-Animator (Part 2) - https://oldnicksite.wordpress.com/2011/08/11/re-animator-part-2/ [AUGUST 11, 2011]	|
+Re-Animator (Part 3) - https://oldnicksite.wordpress.com/2011/08/16/re-animator-part-3/ [AUGUST 16, 2011]	|
+Re-Animator (Part 4) - https://oldnicksite.wordpress.com/2011/08/26/re-animator-part-4/ [AUGUST 26, 2011]	|
+Re-Animator (Part 5) - https://oldnicksite.wordpress.com/2011/09/02/re-animator-part-5/ [SEPTEMBER 2, 2011]	|
+Arts of Re-Animation - http://www.uf-blog.net/arts-of-re-animation/ [DECEMBER 16, 2013]				|
+Dotting the 'I' - http://www.uf-blog.net/dotting-the-i/ [FEBRUARY 11, 2014]					|
+Urbanization in Focus - http://www.uf-blog.net/urbanization-in-focus/ [JULY 29, 2013]				|
+City Limits - http://www.uf-blog.net/city-limits/ [SEPTEMBER 11, 2013]						|
+Modern Legacy - http://www.uf-blog.net/modern-legacy/ [SEPTEMBER 1, 2014]					|
+Shanghai Tower - http://www.xenosystems.net/shanghai-tower/ [MAY 6, 2015]					|
+Shanghai Tower - http://www.uf-blog.net/shanghai-tower/ [AUGUST 29, 2016]					|
+35 Today - http://www.xenosystems.net/35-today/ [AUGUST 26, 2015]						|
+Out West - http://www.xenosystems.net/out-west/ [MARCH 27, 2013]				| trips
+Out West (again) - http://www.xenosystems.net/out-west-again/ [MAY 8, 2013]			|
+Out West (yet again) - http://www.xenosystems.net/out-west-yet-again/ [SEPTEMBER 22, 2013]	|
+Guizhou - http://www.xenosystems.net/guizhou/ [MAY 1, 2013]					|
+Hong Kong - http://www.xenosystems.net/hong-kong/ [JUNE 29, 2013]				|
+Vietnam (scraps) - http://www.xenosystems.net/vietnam-scaps/ [JANUARY 17, 2014]			|
+Angkor (scraps) - http://www.xenosystems.net/angkor-scraps/ [JANUARY 21, 2014]			|
+Cambodia (scraps) - http://www.xenosystems.net/cambodia-scraps/ [JANUARY 26, 2014]		|
+Scrap snaps (#1) - http://www.xenosystems.net/scrap-snaps-1/ [APRIL 12, 2014]			|
+Scrap snaps (#2) - http://www.xenosystems.net/scrap-snaps-2/ [APRIL 13, 2014]			|
+Disconnection - http://www.xenosystems.net/disconnection/ [MAY 30, 2014]			|
+Shenzhen - http://www.uf-blog.net/shenzhen/ [SEPTEMBER 12, 2014]					|
+Scrap note (#14) - http://www.xenosystems.net/scrap-note-14/ [SEPTEMBER 13, 2014]		|
+NZ Scraps - http://www.xenosystems.net/nz-scraps/ [DECEMBER 25, 2014]				|
+Singapore - http://www.xenosystems.net/singapore/ [JANUARY 7, 2015]				|
+Scrap snaps (#3) - http://www.xenosystems.net/scrap-snaps-3/ [APRIL 2, 2016]			|
+Vietnam (scraps) II - http://www.xenosystems.net/vietnam-scraps-ii/ [MAY 14, 2016]		|
+NZ Stuff - http://www.xenosystems.net/nz-stuff/ [DECEMBER 22, 2016]				|
+Disconnection VI - http://www.xenosystems.net/disconnection-vi/ [JANUARY 27, 2017]		|
+- NEO-TRADITIONALISM
+Neo-Traditionalism - http://www.uf-blog.net/neo-traditionalism/ [JULY 29, 2013]
+Ink-cantations - http://www.uf-blog.net/ink-cantations/ [AUGUST 1, 2013]		| artworks
+Ningbo - http://www.xenosystems.net/ningbo/ [AUGUST 26, 2013]			| 
+Ningbo Museum - http://www.uf-blog.net/ningbo-museum/ [AUGUST 29,2013]		|
+Blow Ups - http://www.uf-blog.net/blow-ups/ [SEPTEMBER 8, 2014]			|
+The Qin Model Army - http://www.uf-blog.net/the-qin-model-army/ [MAY 8, 2015]	|
+Art Machined - http://www.uf-blog.net/art-machined/ [SEPTEMBER 10, 2015]		|
+Confucian Restoration - http://www.xenosystems.net/confucian-restoration/ [JUNE 10, 2013]				| confucian restoration
+Mou Zongsan - http://www.xenosystems.net/mou-zongsan/ [SEPTEMBER 17, 2013]						|
+Cultural Restoration and Mou Zongsan - http://www.uf-blog.net/cultural-restoration-and-mou-zongsan/ [SEPTEMBER 18, 2013]	|
+Exploration of the Outside - http://www.uf-blog.net/exploration-of-the-outside/ [OCTOBER 30, 2013]			|
+The Great Convergence - http://www.uf-blog.net/the-great-comvergence/ [DECEMBER 3, 2013]					|
+Legalism - http://www.xenosystems.net/legalism/ [FEBRUARY 15, 2015]
+
+
+II THE DARK ENLIGHTENMENT: Neoreactionaries Head for the Exit
+
+DARK ENLIGHTENMENT
+The Dark Enlightenment (Part 1) - https://oldnicksite.wordpress.com/2012/03/02/the-dark-enlightenment-part-1/ [MARCH 2, 2012]
+The Dark Enlightenment (Part 2) - https://oldnicksite.wordpress.com/2012/03/09/the-dark-enlightenment-part-2/ [MARCH 9, 2012]
+The Dark Enlightenment (Part 3) - https://oldnicksite.wordpress.com/2012/03/19/the-dark-enlightenment-part-3/ [MARCH 19, 2012]
+The Dark Enlightenment (Part 4) - https://oldnicksite.wordpress.com/2012/04/01/the-dark-enlightenment-part-4/ [APRIL 1, 2012]
+The Dark Enlightenment (Part 4a) - https://oldnicksite.wordpress.com/2012/04/19/the-dark-enlightenment-part-4a/ [APRIL 19, 2012]
+The Dark Enlightenment (Part 4b) - https://oldnicksite.wordpress.com/2012/05/03/the-dark-enlightenment-part-4b/ [MAY 3, 2012]
+The Dark Enlightenment (Part 4c) - https://oldnicksite.wordpress.com/2012/05/17/the-dark-enlightenment-part-4c/ [MAY 17, 2012]
+The Dark Enlightenment (Part 4d) - https://oldnicksite.wordpress.com/2012/06/15/the-dark-enlightenment-part-4d/ [JUNE 15, 2012]
+The Dark Enlightenment (Part 4e) - https://oldnicksite.wordpress.com/2012/07/03/the-dark-enlightenment-part-4e/ [JULY 3, 2012]
+The Dark Enlightenment (Part 4f(inal)) - https://oldnicksite.wordpress.com/2012/07/20/the-dark-enlightenment-part-4final/ [JULY 20, 2012]
+Malthusian Horror - http://www.xenosystems.net/malthusian-horror/ [NOVEMBER 14, 2014]
+
+SOCIAL DARWINISM
+Reality Rules - https://oldnicksite.wordpress.com/2012/11/20/reality-rules/ [NOVEMBER 20, 2012]
+Discrimination - http://www.xenosystems.net/discrimination/ [AUGUST 9, 2013]
+Coldness - http://www.xenosystems.net/coldness/ [FEBRUARY 13, 2015]
+Scales - http://www.xenosystems.net/scales/ [SEPTEMBER 3, 2015]
+How Communism Works - http://www.xenosystems.net/how-communism-works/ [OCTOBER 22, 2015]
+Twin Discoveries - http://www.xenosystems.net/twin-discoveries/ [DECEMBER 2, 2015]
+Quote note (#266) - http://www.xenosystems.net/quote-note-266/ [JULY 10, 2016]
+Edited Life - http://www.uf-blog.net/edited-life/ [DECEMBER 16, 2014]		|selection
+Hell Baked - http://www.xenosystems.net/hell-baked/ [JULY 17, 2015]		|
+Malthus was Right - http://www.uf-blog.net/malthus-was-right/ [NOVEMBER 28, 2016]|
+Ruin - http://www.xenosystems.net/ruin/ [DECEMBER 12, 2013]					| dysgenics
+Charlton is Right.... - http://www.xenosystems.net/charlton-is-right/ [MARCH 7, 2014]		|
+The Worst Question - http://www.xenosystems.net/the-worst-question/ [MARCH 27, 2014]		|
+Dysgenic Reactions - http://www.xenosystems.net/dysgenic-reactions/ [JUNE 12, 2014]		|
+Counter-Dysgenics - http://www.xenosystems.net/counter-dysgenics/ [AUGUST 2, 2014]		|
+Quote note (#168) - http://www.xenosystems.net/quote-note-168/ [JUNE 13, 2015]			|
+Crime Think - http://www.xenosystems.net/crime-think/ [JUNE 25, 2015]				|
+No Brainer - http://www.uf-blog.net/no-brainer/ [OCTOBER 29, 2015]				|
+Who needs an argument? - http://www.xenosystems.net/who-needs-an-argument/ [NOVEMBER 18, 2015]	|
+Going Down - http://www.xenosystems.net/going-down/ [MAY 9, 2017]				|
+Quote notes (#71) - http://www.xenosystems.net/quote-notes-71/ [APRIL 7, 2014]	| social mobility
+Chinese Eugenics - http://www.xenosystems.net/chinese-eugenics/ [MAY 6, 2014]	| eugenics
+Reality Boxes - http://www.xenosystems.net/reality-boxes/ [MAY 13, 2015]	|
+Ideological Speciation - http://www.xenosystems.net/ideological-speciation/ [JULY 22, 2014]	| speciation / assortative mating
+Hyper-Racism - http://www.xenosystems.net/hyper-racism/ [September 29, 2014]			|
+Stereotypes - http://www.xenosystems.net/stereotypes/ [MAY 28, 2014]			| stereotypes
+Stereotypes II - http://www.xenosystems.net/stereotypes-ii/ [AUGUST 27, 2014]		|
+Stereotypes III - http://www.xenosystems.net/stereotypes-iii/ [SEPTEMBER 28, 2015]	|
+Stereotypes IV - http://www.xenosystems.net/stereotypes-iv/ [FEBRUARY 29, 2016]		|
+Racism for Beginners - http://www.xenosystems.net/racism-for-beginners/ [JULY 4, 2013]		| races
+Five Stages of BHD - http://www.xenosystems.net/five-stages-of-hbd/ [OCTOBER 21, 2013]		|
+Quote notes (#46) - http://www.xenosystems.net/quote-notes-46/ [NOVEMBER 25, 2013]		|
+Bell-Curve of the Apes - http://www.xenosystems.net/bell-curve-of-the-apes/ [JULY 10, 2014]	|
+The Prussian - http://www.xenosystems.net/the-prussian/ [APRIL 19, 2014]			|
+Escalation - http://www.xenosystems.net/escalation/ [AUGUST 16, 2014]				|
+Demography is Destiny - http://www.xenosystems.net/demography-is-destiny/ [APRIL 16, 2015]	|
+Quote note (#348) - http://www.xenosystems.net/quote-note-348/ [APRIL 4, 2017]			|
+White to Red - http://www.xenosystems.net/white-to-red/ [DECEMBER 8, 2013]			| - whites
+White Fright - http://www.xenosystems.net/white-fright/ [MARCH 29, 2014]			|
+Mitochondrial Eve - http://www.xenosystems.net/mitochondrial-eve/ [OCTOBER 9, 2013]		| - jews
+On the JQ - http://www.xenosystems.net/on-the-jq/ [JULY 3, 2014]				|
+Guilt Projection - http://www.xenosystems.net/guilt-projection/ [SEPTEMBER 2, 2015]		|
+-CLADISTICS
+Cladistic Meditations - http://www.xenosystems.net/cladistic-meditations/ [SEPTEMBER 4, 2013]		| religious clades
+Religious Clades - http://www.xenosystems.net/religious-clades/ [APRIL 29, 2014]			|
+Religions and Ideologies - http://www.xenosystems.net/religions-and-ideologies/ [AUGUST 30, 2014]	|
+Goddamned - http://www.xenosystems.net/goddamned/ [NOVEMBER 19, 2014]					|
+Ethno-Cladistics - http://www.xenosystems.net/ethno-cladistics/ [SEPTEMBER 6, 2013]	| ethno-cultural clades
+Pictured Power - http://www.xenosystems.net/pictured-power/ [JULY 23, 2014]		|
+European Vedism - http://www.xenosystems.net/european-vedism/ [NOVEMBER 2, 2013]	|
+Range Finders - http://www.xenosystems.net/range-finders/ [MARCH 10, 2014]		|
+Thedes - http://www.xenosystems.net/thedes/ [OCTOBER 24, 2014]				|
+Genetic Interests - http://www.xenosystems.net/genetic-interests/ [AUGUST 3, 2015]	|
+Fish People - http://www.xenosystems.net/fish-people/ [JULY 6, 2016]			|
+Luciano Pellicani - http://www.xenosystems.net/luciano-pellicani/ [JANUARY 3, 2014]		| the puritan question
+Ultra-Calvinism - http://www.xenosystems.net/ultra-calvinism/ [MARCH 3, 2015]			|
+Ultra-Calvinism II - http://www.xenosystems.net/ultra-calvinism-ii/ [NOVEMBER 12, 2015]		|
+Double Predestination - http://www.xenosystems.net/double-predestination/ [NOVEMBER 30, 2013]	|
+Join the Dots - http://www.xenosystems.net/join-the-dots/ [DECEMBER 19, 2013]			|
+Progress (IV) - http://www.xenosystems.net/progress-iv/ [JANUARY 12, 2016]			|
+Tough Asia - http://www.xenosystems.net/tough-asia/ [MARCH 26, 2015]			| asian culture
+Chinese Trumpkins - http://www.xenosystems.net/chinese-trumpkins/ [NOVEMBER 22, 2016]	|
+Salience Preference - http://www.xenosystems.net/salience-preference/ [NOVEMBER 1, 2014]| new techno-commercial clade
+Crypto-Brahmins - http://www.xenosystems.net/crypto-brahmins/ [JUNE 6, 2014]		|
+Quantum Suicide - http://www.xenosystems.net/quantum-suicide/ [FEBRUARY 20, 2015]	|
+Sore Losers - https://www.urbanomic.com/document/sore-losers/ [DECEMBER, 2016]		|
+Rhizomes - http://www.xenosystems.net/rhizomes/ [APRIL 17, 2015]			| the alternative
+
+POLITICAL THEORY
+On Power - http://www.xenosystems.net/on-power/ [APRIL 25, 2013]		| basics
+On Chaos - http://www.xenosystems.net/on-chaos/ [APRIL 25, 2014]		|
+Politics - http://www.xenosystems.net/politics/ [SEPTEMBER 24, 2014]		|
+Order and Value - http://www.xenosystems.net/order-and-value/ [MARCH 7, 2016]	|
+Wealth Space - http://www.xenosystems.net/wealth-space/ [SEPTEMBER 3, 2016]	|
+Pattern Recognition - http://www.xenosystems.net/pattern-recognition/ [MARCH 18, 2013]		| distribution / trust / fragmentation
+Quote notes (#68) - http://www.xenosystems.net/quote-notes-68/ [MARCH 26, 2014]			|
+Wolfendale v. Urban Future - http://www.uf-blog.net/wolfendale-v-urban-future/ [MAY 24, 2014]	|
+Counterfactual Cyberspace - http://www.uf-blog.net/counterfactual-cyberspace/ [DECEMBER 8, 2014]	|
+Distrust - http://www.xenosystems.net/distrust/ [DECEMBER 10, 2014]				|
+Trust Webs - http://www.xenosystems.net/trust-webs/ [FEBRUARY 11, 2015]				|
+Quotable (#67) - http://www.uf-blog.net/quotable-67/ [MARCH 7, 2015]				|
+Convergence - http://www.xenosystems.net/convergence/ [SEPTEMBER 9, 2015]			|
+Age of Fragmentation - http://www.xenosystems.net/age-of-fragmentation/ [NOVEMBER 10, 2015]	|
+Quote note (#211) - http://www.xenosystems.net/quote-note-211/ [JANUARY 14, 2016]		|
+Twitter cuts (#112) - http://www.uf-blog.net/twitter-cuts-112/ [APRIL 30, 2016]			|
+Proposition Nations - http://www.xenosystems.net/proposition-nations/ [MAY 17, 2016]		|
+Quotable (#177) - http://www.uf-blog.net/quotable-177/ [JULY 6, 2016]				|
+Quote note (#337) - http://www.xenosystems.net/quote-note-337/ [MARCH 1, 2017]			|
+Quote note (#343) - http://www.xenosystems.net/quote-note-343/ [MARCH 17, 2017]			|
+Disintegration - https://jacobitemag.com/2019/07/15/disintegration/ [JULY 15, 2019]		|
+Ideological Space - http://www.xenosystems.net/ideological-space/ [FEBRUARY 10, 2014]			| ideological space
+Right and Left - http://www.xenosystems.net/right-and-left/ [May 29, 2013]				|
+Quopte notes (#49) - http://www.xenosystems.net/quote-notes-49/ [DECEMBER 12, 2013]			|
+PPD and r/K - http://www.xenosystems.net/ppd-and-rk/ [AUGUST 19, 2014]					|
+Right and Left II - http://www.xenosystems.net/right-and-left-ii/ [NOVEMBER 14, 2015]			|
+2014 Lesson (#1) - http://www.xenosystems.net/2014-lessons-1/ [DECEMBER 27, 2014]			|
+Populism - http://www.xenosystems.net/populism/ [JANUARY 26, 2015]					|
+Populism II - http://www.xenosystems.net/populism-ii/ [DECEMBER 30, 2015]				|
+Quotable (#197) - http://www.uf-blog.net/quotable-197/ [OCTOBER 19, 2016]				|
+Through the Mirror - http://www.xenosystems.net/through-the-mirror/ [APRIL 25, 2015]			|
+Neuro-Politics - http://www.xenosystems.net/neuro-politics/ [DECEMBER 4, 2015]				|
+Modernity in a Nutshell - http://www.xenosystems.net/modernity-in-a-nutshell/ [APRIL 8, 2016]		|
+Twitter cuts (#122) - http://www.uf-blog.net/twitter-cuts-122/ [JUNE 26, 2016]				|
+Wagner's Law - http://www.xenosystems.net/wagners-law/ [NOVEMBER 14, 2016]				|
+Trump's Warsaw Uprising - https://jacobitemag.com/2017/07/12/trumps-warsaw-uprising/ [July 12, 2017]	|
+Language and Liberalism - http://www.uf-blog.net/language-and-liberalism/ [JULY 9, 2014]	| liberalism
+Slippage - http://www.xenosystems.net/slippage/ [FEBRUARY 16, 2017]			|
+Quote note (#344) - http://www.xenosystems.net/quote-note-344/ [MARCH 22, 2017]		|
+Psycho Politics - https://jacobitemag.com/2017/08/11/psycho-politics/ [August 11, 2017]	|
+-REPUBLICANISM AND CONSTITUTIONS
+Quibbles with Moldbug - https://oldnicksite.wordpress.com/2013/01/24/quibbles-with-moldbug/ [JANUARY 24, 2013]	| sovereignty
+Cnut the Great - http://www.xenosystems.net/cnut-the-great/ [MARCH 3, 2016]					| 
+Twitter cuts (#52) - http://www.xenosystems.net/twitter-cuts-52/ [MARCH 8, 2016]				|
+Quotable (#176) - http://www.uf-blog.net/quotable-176/ [JUNE 29, 2016]						|
+Scale-free Reaction - http://www.xenosystems.net/352/ [APRIL 18, 2013]						|
+Transcendental Anarchy - http://www.xenosystems.net/transcendental-anarchy/ [SEPTEMBER 15, 2016]		|
+A Republic, If You Can Keep It - https://oldnicksite.wordpress.com/2013/02/01/a-republic-if-you-can-keep-it/ [FEBRUARY 1, 2013]	| constitutions
+The Royalist Imperative - http://www.xenosystems.net/the-royalist-imperative/ [FEBRUARY 20, 2013]				|
+The Odysseus Problem - http://www.xenosystems.net/the-odysseus-problem/ [FEBRUARY 21, 2013]					|
+Shelter of the Pyramid - http://www.xenosystems.net/shelter-of-the-pyramid/ [FEBRUARY 24, 2013]					|
+Casino Royale - http://www.xenosystems.net/casino-royale/ [OCTOBER 7, 2013]							|
+Rules - http://www.xenosystems.net/rules/ [JUNE 24, 2013]									|
+Quote notes (#76) - http://www.xenosystems.net/quote-notes-76/ [APRIL 27, 2014]							|
+Next Stage of the Slide - http://www.xenosystems.net/79/ [FEBRUARY 24, 2013]	| vs democracy
+The Unraveling - http://www.xenosystems.net/the-unraveling/ [APRIL 2, 2013]	|
+The Program - http://www.uf-blog.net/the-program/ [AUGUST 4, 2015]	| algorithmic governance
+Protocols - http://www.xenosystems.net/protocols/ [SEPTEMBER 17, 2015]	|
+Trichotomocracy - http://www.xenosystems.net/trichotomocracy/ [OCTOBER 9, 2013]	| models
+Lynch Law - http://www.xenosystems.net/lynch-law/ [DECEMBER 7, 2015]		|
+--NEOCAMERALISM
+Meta-Neocameralism - http://www.xenosystems.net/meta-neocameralism/ [MARCH 24, 2014]	| primers
+Eight-Point Neo-Cam - http://www.xenosystems.net/eight-point-neo-cam/ [MARCH 11, 2015]	|
+Quote note (#200) - http://www.xenosystems.net/quote-note-200/ [NOVEMBER 17, 2015]	|
+Neocameralism #1 - http://www.xenosystems.net/neocameralism-1/ [JUNE 29, 2016]		|
+Owned - http://www.xenosystems.net/owned/ [NOVEMBER 15, 2014]							| formalism
+Legitimacy - http://www.uf-blog.net/legitimacy/ [AUGUST 5, 2015]							|
+Laffer Drift - http://www.xenosystems.net/laffer-drift/ [AUGUST 6, 2013]	| specifics
+Undiscovered Countries - http://www.xenosystems.net/undiscovered-countries/ [February 14, 2014]	| transition / implementation
+The Deal - http://www.xenosystems.net/the-deal/ [JANUARY 23, 2016]				|
+The Sad Left - http://www.xenosystems.net/the-sad-left/ [MARCH 4, 2017]				|
+Startup Cities - http://www.uf-blog.net/startup-cities/ [JULY 31, 2014]			| current examples
+Quote note (#111) - http://www.xenosystems.net/quote-note-111/ [SEPTEMBER 22, 2014]	|
+Clandestine NeoCam - http://www.xenosystems.net/clandestine-neocam/ [MAY 12, 2015]	|
+NRx Disneyworld - http://www.xenosystems.net/nrx-disneyworld/ [JUNE 16, 2015]		|
+Disney NRx - http://www.xenosystems.net/disney-nrx/ [JULY 20, 2015]			|
+-FASCISM
+Triumph of the Will - http://www.xenosystems.net/triumph-of-the-will/ [MARCH 25, 2013]	| basics
+AIACC - http://www.xenosystems.net/aiacc/ [SEPTEMBER 19, 2013]				|
+Quote notes (#59) - http://www.xenosystems.net/quote-notes-59/ [FEBRUARY 13, 2014]	|
+Fascism - http://www.xenosystems.net/fascism/ [JUNE 12, 2014]				|
+'Neoliberalism' - http://www.uf-blog.net/neoliberalism/ [FEBRUARY 21, 2014]				| neoliberalism / the fascism that won
+'Neoliberalism' II - http://www.uf-blog.net/neoliberalism-ii/ [APRIL 21, 2016]				|
+The Fascism that Won - http://www.uf-blog.net/the-fascism-that-won/ [MARCH 3, 2014]			|
+The Fascism that's Winning - http://www.uf-blog.net/the-fascism-thats-winning/ [SEPTEMBER 2, 2014]	|
+Capitalism Today - http://www.xenosystems.net/capitalism-today/ [MARCH 30, 2015]			|
+Man in the High Castle - http://www.xenosystems.net/man-in-the-high-castle/ [SEPTEMBER 25, 2015]	|
+Twitter cuts (#124) - http://www.uf-blog.net/twitter-cuts-124/ [JULY 14, 2016]				|
+The 'F' Word - http://dailycaller.com/2016/10/17/the-f-word/ [OCTOBER 17, 2016]				|
+Horseshoe Quiz - http://www.xenosystems.net/horseshoe-quiz/ [JULY 9, 2017]				|
+The Eurasian Question - http://www.uf-blog.net/the-eurasian-question/ [ÁUGUST 7, 2014]	| eurasianism
+Mash - http://www.xenosystems.net/mash/ [JUNE 28, 2014]							| alt-right
+White Dindus - http://www.xenosystems.net/white-dindus/ [OCTOBER 8, 2015]				|
+What is the Alt-Right? - http://www.xenosystems.net/what-is-the-alt-right/ [JANUARY 22, 2016]		|
+What is the Alt-Right? II - http://www.xenosystems.net/what-is-the-alt-right-ii/ [MARCH 5, 2016]	|
+Quote note (#286) - http://www.xenosystems.net/quote-note-286/ [SEPTEMBER 27, 2016]			|
+The Alt-Right is Dead - http://www.xenosystems.net/the-alt-right-is-dead/ [NOVEMBER 24, 2016]		|
+What is the Alt-Right? III - http://www.xenosystems.net/what-is-the-alt-right-iii/ [MARCH 3, 2017]	|
+Hoppe on the Alt Right - http://www.xenosystems.net/hoppe-on-the-alt-right/ [OCTOBER 16, 2017]		|
+The Fear - http://www.xenosystems.net/the-fear/ [NOVEMBER 25, 2015]					| current fascists
+Merkel's Mess - http://www.xenosystems.net/merkels-mess/ [AUGUST 6, 2016]				|
+Post-Democratic Politics - http://www.xenosystems.net/post-democratic-politics/ [JANUARY 22, 2017]	|
+-STRATEGICS
+The Unspeakable - http://www.xenosystems.net/the-unspeakable/ [MARCH 21, 2013]		| rough triangles
+Rough Triangles - http://www.xenosystems.net/rough-triangles/ [MARCH 27, 2013]		|
+Rough Triangles II - http://www.xenosystems.net/rough-triangles-ii/ [JUNE 2, 2013]	|
+Rough Triangles III - http://www.xenosystems.net/rough-triangles-iii/ [MAY 19, 2015]	|
+Natural Law - http://www.xenosystems.net/natural-law/ [MARCH 7, 2013]			|
+Let it Burn ... - http://www.xenosystems.net/let-it-burn/ [JUNE 20, 2014]		|
+Savagery Management - http://www.xenosystems.net/savagery-management/ [APRIL 16, 2016]	|
+Sentences (#81) - http://www.xenosystems.net/sentences-81/ [NOVEMBER 23, 2016]		|
+Game Theory - http://www.uf-blog.net/game-theory/ [OCTOBER 26, 2015]			| incentives
+Twitter cuts (#41) - http://www.xenosystems.net/twitter-cuts-41/ [JANUARY 5, 2016]	|
+Quotable (#134) - http://www.uf-blog.net/quotable-134/ [JANUARY 21, 2016]		|
+Quotable (#191) - http://www.uf-blog.net/quotable-191/ [SEPTEMBER 22, 2016]		|
+Twitter cuts (#8) - http://www.xenosystems.net/twitter-cuts-8/ [JANUARY 23, 2015]		| mutual intensification
+Cui Bono? - http://www.xenosystems.net/cui-bono/ [APRIL 23, 2013]				|
+Assassination Markets - http://www.xenosystems.net/assassination-markets/ [NOVEMBER 20, 2013]	|
+Chicken - http://www.xenosystems.net/chicken/ [OCTOBER 15, 2013]				|
+Political Chicken - http://www.xenosystems.net/political-chicken/ [MARCH 1, 2016]		|
+Subversion - http://www.xenosystems.net/subversion/ [MARCH 13, 2014]			| subversion / camouflage
+Poe's Law - http://www.xenosystems.net/poes-law/ [JULY 18, 2014]			|
+AAA ... - http://www.xenosystems.net/aaa/ [JULY 22, 2014]				|
+#AAA UK-Style - http://www.xenosystems.net/aaa-uk-style/ [JUNE 17, 2015]		|
+AAA ... II - http://www.xenosystems.net/aaa-ii/ [SEPTEMBER 11, 2015]			|
+Quote note (#218) - http://www.xenosystems.net/quote-note-218/ [FEBRUARY 9, 2016]	|
+Peace Dividend - http://www.xenosystems.net/peace-dividend/ [JUNE 8, 2013]			| hegemonic headaches
+Broken Pottery - http://www.xenosystems.net/broken-pottery/ [SEPTEMBER 9, 2013]			|
+Stalin's Great Game - http://www.xenosystems.net/stalins-great-game/ [OCTOBER 2, 2013]		|
+"Which Falls First?" ... - http://www.xenosystems.net/which-falls-first/ [AUGUST 11, 2014]	|
+Homeless - http://www.uf-blog.net/homeless/ [AUGUST 14, 2014]					|
+Our Ally, the Enemy - http://www.xenosystems.net/our-ally-the-enemy/ [JUNE 14, 2013]	| current events
+Quote notes (#24) - http://www.xenosystems.net/quote-notes-24/ [AUGUST 30, 2013]	|
+Oil War - http://www.xenosystems.net/oil-war/ [DECEMBER 4, 2014]			|
+Kill the Chicken ... - http://www.xenosystems.net/kill-the-chicken/ [FEBRUARY 12, 2015]	|
+--WAR
+War and Truth (scraps) - http://www.xenosystems.net/war-and-truth-scraps/ [JANUARY 19, 2014]
+Conflict - http://www.xenosystems.net/conflict/ [JULY 3, 2014]
+War is God - http://www.xenosystems.net/war-is-god/ [MAY 9, 2016]
+The Dark Forest - http://www.xenosystems.net/the-dark-forest/ [OCTOBER 1, 2015]
+Quote note (#296) - http://www.xenosystems.net/quote-note-296/ [OCTOBER 23, 2016]
+Quote note (#298) - http://www.xenosystems.net/quote-note-298/ [OCTOBER 31, 2016]
+War Without End - http://www.uf-blog.net/war-without-end/ [JULY 27, 2014]
+Twitter cuts (#110) - http://www.xenosystems.net/twitter-cuts-110/ [FEBRUARY 4, 2017]
+--THE ISLAMIC VORTEX
+Premature Ejection - http://www.xenosystems.net/premature-ejection/ [JULY 6, 2013]
+The Islamic Vortex (Part 1) - http://www.xenosystems.net/the-islamic-vortex-part-1/ [JULY 30, 2013]
+The Islamic Vortex (Part 2) - http://www.xenosystems.net/the-islamic-vortex-part-2/ [JULY 31, 2013]
+The Islamic Vortex (Part 3) - http://www.xenosystems.net/the-islamic-vortex-part-3/ [AUGUST 1, 2013]
+The Islamic Vortex (Part 3a) - http://www.xenosystems.net/the-islamic-vortex-part-3a/ [AUGUST 2, 2013]
+The Islamic Vortex (Part 3b) - http://www.xenosystems.net/the-islamic-vortex-part-3b/ [AUGUST 3, 2013]
+The Islamic Vortex (Part 4) - http://www.xenosystems.net/the-islamic-vortex-part-4/ [AUGUST 5, 2013]
+The Islamic Vortex (Part 5) http://www.xenosystems.net/the-islamic-vortex-part-5/ [AUGUST 10, 2013]
+Quote Notes (#13) - http://www.xenosystems.net/quote-notes-13/ [AUGUST 6, 2013]
+Great Games... - http://www.xenosystems.net/quote-notes-23/ [AUGUST 28, 2013]
+Quote notes (#24) - http://www.xenosystems.net/quote-notes-24/ [AUGUST 30, 2013]
+Yesterday's News - http://www.xenosystems.net/yesterdays-news/ [SEPTEMBER 1, 2013]
+Quote notes (#33) - http://www.xenosystems.net/quote-notes-33/ [SEPTEMBER 26, 2013]
+Buy/bye Petrodollar - http://www.xenosystems.net/buybye-petrodollar/ [OCTOBER 27, 2013]
+The Saudi Bomb - http://www.xenosystems.net/the-saudi-bomb/ [NOVEMBER 10, 2013]
+Time of the Ass-assins - http://www.xenosystems.net/time-of-the-ass-assins/ [DECEMBER 11, 2013]
+Played - http://www.xenosystems.net/played/ [MAY 14, 2014]
+The Islamic Vortex (Map) - http://www.xenosystems.net/the-islamic-vortex-map/ [JULY 12, 2014]
+The Islamic Vortex (Map-2) - http://www.xenosystems.net/the-islamic-vortex-map-2/ [JULY 24, 2014]
+The Islamic Vortex (Note-1) - http://www.xenosystems.net/the-islamic-vortex-note-1/ [AUGUST 13, 2014]
+The Islamic Vortex (Note-2) - http://www.xenosystems.net/the-islamic-vortex-note-2/ [AUGUST 29, 2014]
+The Islamic Vortex (Note-3) - http://www.xenosystems.net/the-islamic-vortex-note-3/ [OCTOBER 15, 2014]
+The Islamic Vortex (Note-3a) - http://www.xenosystems.net/the-islamic-vortex-note-3a/ [DECEMBER 3, 2014]
+The Islamic Vortex (Note-4) - http://www.xenosystems.net/the-islamic-vortex-note-4/ [FEBRUARY 4, 2015]
+Coming Soon - http://www.xenosystems.net/coming-soon/ [SEPTEMBER 18, 2014]
+Progress (III) - http://www.xenosystems.net/progress-iii/ [JANUARY 21, 2015]
+Moors Law - http://www.xenosystems.net/moors-law/ [MARCH 24, 2015]
+Things Fall Apart - http://www.xenosystems.net/things-fall-apart-2/ [MARCH 27, 2015]
+Join the Queue - http://www.xenosystems.net/join-the-queue/ [APRIL 13, 2015]
+Iconoclasm - http://www.xenosystems.net/iconoclasm/ [APRIL 16, 2015]
+Geo-Engineering - http://www.xenosystems.net/geo-engineering/ [OCTOBER 14, 2015]
+ISIS on Paris - http://www.xenosystems.net/isis-on-paris/ [NOVEMBER 14, 2015]
+The Management of Savagery - http://www.xenosystems.net/the-management-of-savagery/ [NOVEMBER 16, 2015]
+Peak Jacobinism - http://www.xenosystems.net/peak-jacobinism/ [NOVEMBER 23, 2015]
+The Islamic Vortex (Note-5) - http://www.xenosystems.net/the-islamic-vortex-note-5/ [JUNE 2, 2015]
+The Islamic Vortex (Note-6) - http://www.xenosystems.net/the-islamic-vortex-note-6/ [DECEMBER 3, 2015]
+The Islamic Vortex (Note-7) - http://www.xenosystems.net/the-islamic-vortex-note-7/ [DECEMBER 17, 2015]
+The Islamic Vortex (Note-8) - http://www.xenosystems.net/the-islamic-vortex-note-8/ [DECEMBER 23, 2015]
+The Islamic Vortex (Note-9) - http://www.xenosystems.net/the-islamic-vortex-note-9/ [DECEMBER 26, 2015]
+The Islamic Vortex (Note-10) - http://www.xenosystems.net/the-islamic-vortex-note-10/ [APRIL 30, 2016]
+The Islamic Vortex (Note-11) - http://www.xenosystems.net/the-islamic-vortex-note-11/ [OCTOBER 22, 2016]
+The Islamic Vortex (Note-12) - http://www.xenosystems.net/the-islamic-vortex-note-12/ [NOVEMBER 28, 2016]
+Quote note (#260) - http://www.xenosystems.net/quote-note-260/ [JUNE 22, 2016]
+Twitter cuts (#94) - http://www.xenosystems.net/twitter-cuts-94/ [OCTOBER 14, 2016]
+Twitter cuts (#123) - http://www.xenosystems.net/twitter-cuts-123/ [MARCH 16, 2017]
+-IMMIGRATION
+Quote note (#132) - http://www.xenosystems.net/quote-note-132/ [NOVEMBER 24, 2014]
+Discrimination II - http://www.xenosystems.net/discrimination-ii/ [APRIL 10, 2015]
+Ethnomasochism - http://www.xenosystems.net/ethnomasochism/ [JULY 14, 2015]
+Quote note (#214) - http://www.xenosystems.net/quote-note-214/ [FEBRUARY 1, 2016]
+Quote note (#222) - http://www.xenosystems.net/quote-note-222/ [FEBRUARY 22, 2016]
+Quote note (#184) - http://www.xenosystems.net/quote-note-184/ [SEPTEMBER 14, 2015]
+Tsunami - http://www.xenosystems.net/tsunami/ [APRIL 30, 2015]				| overflow
+All Over - http://www.xenosystems.net/all-over/ [JUNE 15, 2015]				|
+Policy Migration - http://www.xenosystems.net/policy-migration/ [AUGUST 21, 2015]	|
+Exponential - http://www.xenosystems.net/exponential/ [OCTOBER 5, 2015]			|
+Diverse Opinions - http://www.xenosystems.net/diverse-opinions/ [NOVEMBER 7, 2013]	| selection
+Twitter cuts (#39) - http://www.xenosystems.net/twitter-cuts-39/ [DECEMBER 8, 2015]	|
+Why Iran? - http://www.xenosystems.net/why-iran/ [FEBRUARY 5, 2017]			|
+-EXIT
+Lure of the Void (Part 1) - https://oldnicksite.wordpress.com/2012/08/15/lure-of-the-void-part-1/ [AUGUST 15, 2012]
+Lure of the Void (Part 2) - https://oldnicksite.wordpress.com/2012/09/06/lure-of-the-void-part-2/ [SEPTEMBER 6, 2012]
+Lure of the Void (Part 3a) - https://oldnicksite.wordpress.com/2012/09/29/lure-of-the-void-part-3a/ [SEPTEMBER 29, 2012]
+Lure of the Void (Part 3b) - https://oldnicksite.wordpress.com/2012/10/26/lure-of-the-void-part-3b/ [OCTOBER 26, 2012]
+Rosetta's Stone - http://www.xenosystems.net/rosettas-stone/ [NOVEMBER 12, 2014]
+Quote note (#272) - http://www.xenosystems.net/quote-note-272/ [AUGUST 14, 2016]		| exit
+Quit - http://www.xenosystems.net/quit/ [FEBRUARY 28, 2013]					|
+Exit Test - http://www.xenosystems.net/exit-test/ [FEBRUARY 24, 2014]				|
+Exit notes (#1) - http://www.xenosystems.net/exit-notes-1/ [JUNE 24, 2014]			|
+Age of Exit - http://www.uf-blog.net/age-of-exit/ [APRIL 17, 2015]				|
+Exit Pressure - http://www.xenosystems.net/exit-pressure/ [MAY 29, 2015]			|
+Exit Options - http://www.xenosystems.net/exit-options/ [JUNE 6, 2015]				|
+Exit Foundations - http://www.xenosystems.net/exit-foundations/ [JUNE 11, 2015]			|
+Geopolitical Arbitrage - http://www.xenosystems.net/geopolitical-arbitrage/ [JANUARY 18, 2016]	|
+Flea Politics - http://www.xenosystems.net/flea-politics/ [JANUARY 29, 2016]			|
+Sentences (#55) - http://www.xenosystems.net/sentences-55/ [MAY 24, 2016]			|
+Ultimate Exit NY - http://www.xenosystems.net/ultimate-exit-ny/ [DECEMBER 6, 2014]		| exit in place
+Into the Dark - http://www.xenosystems.net/into-the-dark/ [OCTOBER 24, 2014] (cryptography)	|
+Buy Out - http://www.xenosystems.net/buy-out/ [AUGUST 22, 2014] (gold)				|
+Go Scotland! - http://www.xenosystems.net/go-scotland/ [SEPTEMBER 8, 2014]			| current exits
+Last Days of the UK? - http://www.xenosystems.net/last-days-of-the-uk/ [SEPTEMBER 17, 2014]	|
+Dependency Culture... - http://www.xenosystems.net/dependency-culture/ [SEPTEMBER 19, 2014]	|
+Crack up - http://www.xenosystems.net/crack-up/ [DECEMBER 9, 2014]				|
+Pan-Secessionism - http://www.xenosystems.net/pan-secessionism/ [SEPTEMBER 7, 2015]		|
+Brexit - http://www.xenosystems.net/brexit/ [FEBRUARY 22, 2016]					|
+Brexit Open Thread - http://www.xenosystems.net/brexit-open-thread/ [JUNE 24, 2016]		|
+Bluexit - http://www.xenosystems.net/bluexit/ [MARCH 9, 2017]					|
+Identity Hunger - http://www.xenosystems.net/identity-hunger/ [September 25, 2013]			| individualism
+Capitalism vs Bourgeosie - http://www.xenosystems.net/capitalism-vs-the-bourgeoisie/ [AUGUST 24, 2013]	|
+INTJ - http://www.xenosystems.net/intj/ [FEBRUARY 6, 2015]						|
+Corrosive Individualism? - http://www.xenosystems.net/corrosive-individualism/ [NOVEMBER 5, 2015]	|
+The Atomization Trap - https://jacobitemag.com/2017/06/06/atomization/ [June 6, 2017]			|
+Against Universalism - http://www.xenosystems.net/against-universalism/ [MARCH 18, 2016]
+Against Universalism II - http://www.xenosystems.net/against-universalism-ii/ [APRIL 28, 2016]
+Independence - http://www.xenosystems.net/independence/ [MAY 3, 2016]
+Independence Games - https://jacobitemag.com/2017/11/20/independence-games/ [NOVEMBER 30, 2017]
+
+III XENOSYSTEMS: Involvements with Reality
+
+INTRO
+Preliminary Mumblings - http://www.xenosystems.net/preliminary-mumblings/ [FEBRUARY 17, 2013]	| definitions
+Xenomy - http://www.xenosystems.net/xenomy/ [APRIL 19, 2013]					|
+Urban Future (2.0) - http://www.xenosystems.net/urban-future-2-0/ [JUNE 21, 2013]		|
+Search Records - http://www.xenosystems.net/search-records/ [JULY 24, 2013]			|
+Wikipedia - http://www.xenosystems.net/wikipedia/ [SEPTEMBER 19, 2015]				|
+Chaos Patch (#1) - http://www.xenosystems.net/chaos-patch-1/ [MAY 19, 2013]		| blog policy
+Curses! - http://www.xenosystems.net/curses/ [AUGUST 20, 2014]				|
+Twitter cuts (#26) - http://www.xenosystems.net/twitter-cuts-26/ [AUGUST 28, 2015] *	|
+Cichlimbar - http://www.xenosystems.net/cichlimbar/ [MARCH 28, 2016] *			|
+Fumigation - http://www.xenosystems.net/fumigation/ [JULY 22, 2017] *			|
+@Ousideness - http://www.xenosystems.net/outsideness/ [SEPTEMBER 12, 2013] *	| social media
+Twitter and me - http://www.xenosystems.net/twitter-and-me/ [FEBRUARY 23, 2014]	|
+Twitter Cut - http://www.xenosystems.net/twitter-cut/ [FEBRUARY 24, 2017]	|
+Twitter cuts (#133) - http://www.xenosystems.net/twitter-cuts-133/ [MAY 4, 2017]|
+On to 2014 - http://www.xenosystems.net/on-to-2014/ [JANUARY 1, 2014] *		| trivia
+Perma-Thanks - http://www.xenosystems.net/perma-thanks/ [OCTOBER 8, 2014] *	|
+End 2015 - http://www.xenosystems.net/end-2015/ [DECEMBER 31, 2015] *		|
+3,000,000 Today - http://www.xenosystems.net/3000000-today/ [OCTOBER 24, 2016] *|
+Going Dark - http://www.xenosystems.net/going-dark/ [APRIL 9, 2015] *			| technical failures
+Vanished Liberty - http://www.xenosystems.net/vanished-liberty/ [JUNE 20, 2015] *	|
+Comment Odd*ty - http://www.xenosystems.net/comment-oddty/ [MARCH 10, 2016] *		|
+Resumption - http://www.xenosystems.net/resumption/ [MARCH 31, 2016] *			|
+Irish Disconnection - http://www.xenosystems.net/irish-disconnection/ [JULY 3, 2015] *	| disconnetion
+Disconnection II - http://www.xenosystems.net/disconnection-ii/ [MAY 29, 2016] *	|
+Disconnection III - http://www.xenosystems.net/disconnection-iii/ [AUGUST 26, 2016] *	|
+Disconnection IV - http://www.xenosystems.net/disconnection-iv/ [OCTOBER 4, 2016] *	|
+Disconnection V - http://www.xenosystems.net/disconnection-v/ [DECEMBER 17, 2016] *	|
+											|* rather deletable
+
+NEOREACTION
+Neoreaction (for dummies) - http://www.xenosystems.net/neoreaction-for-dummies/ [APRIL 17, 2013]	| definitions
+Definitions - http://www.xenosystems.net/definitions/ [MAY 14, 2013]					|
+Deep Heritage - http://www.xenosystems.net/deep-heritage/ [MAY 15, 2013]				|
+Categorization - http://www.xenosystems.net/categorization/ [OCTOBER 24, 2013]				|
+The Litmus Test - http://www.xenosystems.net/the-litmus-test/ [NOVEMBER 4, 2013]			|
+Institution Building - http://www.xenosystems.net/institution-building/ [NOVEMBER 28, 2013]		|
+Our Inheritance - http://www.xenosystems.net/our-inheritance/ [JANUARY 2, 2014]				|
+Roughened Chan - http://www.xenosystems.net/roughened-chan/ [JANUARY 6, 2014]				|
+Premises of Neoreaction - http://www.xenosystems.net/premises-of-neoreaction/ [FEBRUARY 3, 2014]	|
+Quote notes (#63) - http://www.xenosystems.net/quote-notes-63/ [FEBRUARY 23, 2014]			|
+Definitive NBS - http://www.xenosystems.net/definitive-nbs/ [MAY 11, 2014]				|
+Disintegration - http://www.xenosystems.net/disintegration/ [AUGUST 4, 2014]				|
+Disintegration II - http://www.xenosystems.net/disintegration-ii/ [NOVEMBER 12, 2016]			|
+Bonds of Chaos - http://www.xenosystems.net/bonds-of-chaos/ [SEPTEMBER 4, 2014]				|
+The Network - http://www.xenosystems.net/the-network/ [OCTOBER 1, 2014]					|
+Theonomy - http://www.xenosystems.net/theonomy/ [AUGUST 14, 2015]					|
+NRx Thought - http://www.xenosystems.net/nrx-thought/ [OCTOBER 28, 2015]				|
+Doom Circuitry - http://www.xenosystems.net/doom-circuitry/ [FEBRUARY 10, 2016]				|
+Elysium - http://www.xenosystems.net/elysium/ [OCTOBER 1, 2013]					| aesthetics
+Dawn of Neoreaction - http://www.xenosystems.net/dawn-of-neoreaction/ [JANUARY 31, 2014]	|
+Play the Decline - http://www.xenosystems.net/play-the-decline/ [MAY 3, 2014]			|
+NRx Dark Powers - http://www.xenosystems.net/nrx-dark-powers/ [MAY 16, 2014]			|
+The Trike - http://www.xenosystems.net/the-trike/ [MAY 20, 2014]				|
+NRx: The Call - http://www.xenosystems.net/nrx-the-call/ [JULY 31, 2014]			|
+City of Night - http://www.xenosystems.net/city-of-night/ [AUGUST 28, 2014]			|
+Cyber-Suicide - http://www.xenosystems.net/cyber-suicide/ [DECEMBER 13, 2014]			|
+Seasonal Order - http://www.xenosystems.net/seasonal-order/ [DECEMBER 21, 2014]			|
+Stock and Flow - http://www.xenosystems.net/stock-and-flow/ [APRIL 23, 2015]			|
+Questions - http://www.xenosystems.net/questions/ [OCTOBER 22, 2013]					| fundamental problems
+Neoreactionry Problems - http://www.xenosystems.net/neoreactionary-problems/ [NOVEMBER 14, 2013]	|
+Scavenger - http://www.xenosystems.net/scavenger/ [OCTOBER 8, 2014]					|
+Twitter cuts (#27) - http://www.xenosystems.net/twitter-cuts-27/ [SEPTEMBER 8, 2015]			|
+What We Deserve - https://oldnicksite.wordpress.com/2012/11/09/what-we-deserve/ [NOVEMBER 9, 2012]	| the ratchet
+Left Singularity - https://oldnicksite.wordpress.com/2013/01/07/left-singularity/ [JANUARY 7, 2013]	|
+Cold Turkey - http://www.xenosystems.net/cold-turkey/ [JUNE 17, 2013]					|
+Obamanation II - http://www.xenosystems.net/obamanation-ii/ [JUNE 19, 2014]				|
+The Idea of Neoreaction - http://www.xenosystems.net/the-idea-of-neoreaction/ [June 28, 2013]		|
+The Ruin Reservoir - http://www.xenosystems.net/the-ruin-reservoir/ [JULY 26, 2013]			|
+Dark Acceleration - http://www.xenosystems.net/dark-acceleration/ [SEPTEMBER 3, 2013]			|
+Sundown - http://www.xenosystems.net/sundown/ [OCTOBER 6, 2013]						|
+The Decline Frame - http://www.xenosystems.net/the-decline-frame/ [OCTOBER 23, 2013]			|
+Nemesis - http://www.xenosystems.net/nemesis/ [NOVEMBER 15, 2013]					|
+Nemesis II - http://www.xenosystems.net/nemesis-ii/ [MARCH 9, 2015]					|
+No Way Home - http://www.xenosystems.net/no-way-home/ [APRIL 21, 2014]					|
+End of the Ratchet - http://www.xenosystems.net/end-of-the-ratchet/ [JULY 3, 2014]			|
+Ratchets and Catastrophes - http://www.xenosystems.net/ratchets-and-catastrophes/ [SEPTEMBER 2, 2014]	|
+Down-Slopes - http://www.xenosystems.net/down-slopes/ [NOVEMBER 8, 2014]				|
+Reality Check - http://www.xenosystems.net/reality-check/ [MAY 29, 2013]			| realism
+Neoreactionary Realism - http://www.xenosystems.net/neoreactionary-realism/ [JULY 4, 2013]	|
+Dark Moments - http://www.xenosystems.net/dark-moments/ [JULY 18, 2013]				|
+Reaction, Repetition, and Time - http://www.xenosystems.net/reaction-repetition-and-time/ [February 19, 2013]	| time-structure
+Anti-Greer - http://www.xenosystems.net/anti-greer/ [JANUARY 23, 2015]						|
+Cambrian Explosion - http://www.xenosystems.net/cambrian-explosion/ [MAY 9, 2013]	| other nrx blogs
+On Goulding - http://www.xenosystems.net/on-goulding/ [JUNE 2, 2013]			|
+Reddit Shift - http://www.xenosystems.net/reddit-shift/ [MAY 22, 2014]			|
+Neo-Feudalism - http://www.xenosystems.net/neo-feudalism/ [MARCH 25, 2015]		|
+Alexander on Reaction - http://www.xenosystems.net/alexander-on-reaction/ [MARCH 17, 2013]					| others on nrx
+DE Q&A - http://www.xenosystems.net/de-qa/ [SEPTEMBER 29, 2013]									|
+Zacked - http://www.xenosystems.net/zacked/ [OCTOBER 17, 2013]									|
+Dorks for the Norks! - http://www.xenosystems.net/dorks-for-the-norks/ [NOVEMBER 29, 2013]					|
+Lewis on NR - http://www.xenosystems.net/lewis-on-nr/ [JANUARY 6, 2014]								|
+Scrapping - http://www.xenosystems.net/scrapping/ [JANUARY 20, 2014]								|
+Scrap notes (#4) - http://www.xenosystems.net/scrap-notes-4/ [JANUARY 28, 2014]							|
+Lord of the Trolls - http://www.xenosystems.net/lord-of-the-trolls/ [FEBRUARY 13, 2014]						|
+Hit-Piece of the Week - http://www.xenosystems.net/hit-piece-of-the-week/ [JUNE 13, 2014]					|
+Alexander on the Ratchet - http://www.xenosystems.net/alexander-on-the-ratchet/ [JULY 6, 2014]					|
+Castillo on Nrx - http://www.xenosystems.net/castillo-on-nrx/ [JULY 29, 2014]							|
+Chu on this - http://www.xenosystems.net/chu-on-this/ [AUGUST 1, 2014]								|
+NRx @ LW - http://www.xenosystems.net/nrx-lw/ [SEPTEMBER 6, 2014]								|
+De-Triggering - http://www.xenosystems.net/de-triggering/ [OCTOBER 25, 2015]							|
+The Darkness at the End of the Tunnel - http://www.xenosystems.net/the-darkness-at-the-end-of-the-tunnel/ [MARCH 31, 2017]	|
+A Disturbance in the Force - http://www.xenosystems.net/a-disturbance-in-the-force/ [NOVEMBER 9, 2013]	| mainstreaming
+Strangeloop - http://www.xenosystems.net/strangeloop/ [JUNE 5, 2015]					|
+Strangeloop II - http://www.xenosystems.net/strangeloop-ii/ [JUNE 8, 2015]				|
+Smear-ghouls - http://www.xenosystems.net/smear-ghouls/ [JULY 25, 2014]					|
+HuffPo NRx? - http://www.xenosystems.net/huffpo-nrx/ [AUGUST 10, 2015]					|
+Counter Fund - http://www.xenosystems.net/counter-fund/ [JULY 16, 2017]					|
+-NRX SKIRMISHES
+Flavors of Reaction - http://www.xenosystems.net/flavors-of-reaction/ [FEBRUARY 19, 2013]
+Trichotomy - http://www.xenosystems.net/trichotomy/ [APRIL 30, 2013]
+Visual Trichotomy - http://www.xenosystems.net/visual-trichotomy/ [MAY 2, 2013]
+White Out - http://www.xenosystems.net/white-out/ [DECEMBER 13, 2013]
+Retro-Dialectics - http://www.xenosystems.net/retro-dialectics/ [DECEMBER 29, 2013]
+2014: A Prophecy - http://www.xenosystems.net/2014-a-prophecy/ [JANUARY 5, 2014]
+Timing - http://www.xenosystems.net/timing/ [FEBRUARY 11, 2014]
+Anarchy in the NRx - http://www.xenosystems.net/anarchy-in-the-nrx/ [FEBRUARY 18, 2014]
+Ideological Chaos - http://www.xenosystems.net/ideological-chaos/ [MARCH 20, 2014]	| Justine Tunney
+Crossing the Line - http://www.xenosystems.net/crossing-the-line/ [APRIL 28, 2014]	|
+Scrap Note (#11) - http://www.xenosystems.net/scrap-note-11/ [MAY 1, 2014]		|
+Fission - http://www.xenosystems.net/fission/ [MARCH 22, 2014]
+Rift Markers - http://www.xenosystems.net/rift-markers/ [MARCH 25, 2014]
+Race to the Bottom - http://www.xenosystems.net/race-to-the-bottom/ [JUNE 3, 2014]
+Mises or Jesus? - http://www.xenosystems.net/mises-or-jesus/ [JULY 2, 2014]
+Outsideness - http://www.xenosystems.net/outsideness-2/ [AUGUST 1, 2014]
+Fission II - http://www.xenosystems.net/fission-ii/ [AUGUST 6, 2014]
+Circles of Concern - http://www.xenosystems.net/circles-of-concern/ [SEPTEMBER 10, 2014]
+Trike Lines - http://www.xenosystems.net/trike-lines/ [SEPTEMBER 25, 2014]
+Questions of Identity - http://www.xenosystems.net/questions-of-identity/ [OCTOBER 16, 2014]
+Entryism - http://www.xenosystems.net/entryism/ [OCTOBER 25, 2014]
+Caste - http://www.xenosystems.net/caste/ [NOVEMBER 5, 2014]
+Against the Ant People - http://www.xenosystems.net/against-the-ant-people/ [DECEMBER 9, 2014]
+Ellipsis ... - http://www.xenosystems.net/ellipsis/ [DECEMBER 17, 2014]
+New Low - http://www.xenosystems.net/new-low/ [JANUARY 20, 2015]
+#HRx - http://www.xenosystems.net/hrx/ [APRIL 11, 2015]				| hrx
+#HRx II - http://www.xenosystems.net/hrx-ii/ [MARCH 2, 2016]			|
+Quote note (#233) - http://www.xenosystems.net/quote-note-233/ [MARCH 21, 2016]	|
+Royal Blessings - http://www.xenosystems.net/royal-blessings/ [MAY 14, 2015]
+Putsch - http://www.xenosystems.net/putsch/ [MAY 22, 2015]
+Thick and Thin - http://www.xenosystems.net/thick-and-thin/ [AUGUST 29, 2015]
+Twitter cuts (#49) - http://www.xenosystems.net/twitter-cuts-49/ [FEBRUARY 10, 2016]
+NRx and Liberalism - http://www.xenosystems.net/nrx-and-liberalism/ [MARCH 23, 2016]
+Lunatic Activism - http://www.xenosystems.net/lunatic-activism/ [JUNE 17, 2016]
+Frankenstein - http://www.xenosystems.net/frankenstein/ [JUNE 18, 2016]
+Broken - http://www.xenosystems.net/broken/ [AUGUST 19, 2016]
+Twitter cuts (#92) - http://www.xenosystems.net/twitter-cuts-92/ [OCTOBER 7, 2016]
+Quote note (#350) - http://www.xenosystems.net/quote-note-350/ [APRIL 24, 2017]
+-THE CATHEDRAL												| definitions 
+Mandarins - http://www.uf-blog.net/mandarins/ [JUNE 26, 2014]						| - structure
+Know the Enemy - http://www.xenosystems.net/know-the-enemy/ [JUNE 26, 2014]				|
+Know the Enemy II - http://www.xenosystems.net/know-the-enemy-ii/ [JUNE 26, 2014]			|
+Cathedral Studies - http://www.xenosystems.net/cathedral-studies/ [MAY 11, 2014]			|
+Cathedral notes (#1) - http://www.xenosystems.net/cathedral-notes-1/ [JUNE 27, 2014]			|
+Moron bites (#1) - http://www.xenosystems.net/moron-bites-1/ [OCTOBER 2, 2014]				|
+Laundered - http://www.xenosystems.net/laundered/ [OCTOBER 20, 2014]					|
+Politics on the Job - http://www.xenosystems.net/politics-on-the-job/ [NOVEMBER 20, 2014]		|
+Worrying - http://www.xenosystems.net/worrying/ [AUGUST 12, 2015]					|
+Sub-Cathedral Media - http://www.xenosystems.net/sub-cathedral-media/ [FEBRUARY 11, 2016]		|
+Cathedralism - http://www.xenosystems.net/cathedralism/ [FEBRUARY 16, 2016]				|
+Rectification of Names - http://www.xenosystems.net/rectification-of-names/ [JULY 13, 2013]		|
+Oh, Spengler... - http://www.xenosystems.net/oh-spengler/ [AUGUST 4, 2015]				| - faith
+Back to the Roots - http://www.xenosystems.net/back-to-the-roots/ [SEPTEMBER 16, 2015]			|
+Progressive Religion - http://www.xenosystems.net/progressive-religion/ [MARCH 19, 2014]		|
+Dawkins' Faith - http://www.xenosystems.net/dawkins-faith/ [APRIL 18, 2014]				|
+Spiritual Progress - http://www.xenosystems.net/spiritual-progress/ [JUNE 8, 2014]			|
+UNESCO Man - http://www.xenosystems.net/unesco-man/ [AUGUST 25, 2014]					|
+Radish does Irreligion - http://www.xenosystems.net/radish-does-irreligion/ [SEPTEMBER 23, 2014]	|
+Cathedral History - http://www.xenosystems.net/cathedral-history/ [JANUARY 21, 2015]			|
+Quote note (#328) - http://www.xenosystems.net/quote-note-328/ [FEBRUARY 6, 2017]			|
+Tribal Epistemology - http://www.xenosystems.net/tribal-epistemology/ [JULY 29, 2015]			|
+Politics is the Mindkiller - http://www.xenosystems.net/politics-is-the-mindkiller/ [OCTOBER 13, 2016]	|
+Quote note (#303) - http://www.xenosystems.net/quote-note-303/ [NOVEMBER 14, 2016]			|
+Forward! - https://oldnicksite.wordpress.com/2012/11/07/forward/ [NOVEMBER 7, 2012]		| irrealism / feverish religiousness / insanity
+Magical Thinking - http://www.xenosystems.net/magical-thinking/ [JULY 29, 2013]			|
+Musty - http://www.xenosystems.net/musty/ [SEPTEMBER 16, 2014]					|
+Discombobulation - http://www.xenosystems.net/discombobulation/ [OCTOBER 14, 2013]		|
+Scrap notes (#6) - http://www.xenosystems.net/scrap-note-6/ [JANUARY 30, 2014]			|
+Ideo-Cannibalism - http://www.xenosystems.net/ideo-cannibalism/ [FEBRUARY 11, 2014]		|
+Scientific Climate - http://www.xenosystems.net/scientific-climate/ [FEBRUARY 21, 2014]		|
+Aristocracy of Outrage - http://www.xenosystems.net/aristocracy-of-outrage/ [FEBRUARY 28, 2014]	|
+How it Ends - http://www.xenosystems.net/how-it-ends/ [APRIL 18, 2014]				|
+Quote notes (#88) - http://www.xenosystems.net/quote-notes-88/ [JUNE 7, 2014]			|
+More Madness - http://www.xenosystems.net/more-madness/ [JUNE 13, 2014]				|
+Enablers - http://www.xenosystems.net/enablers/ [AUGUST 28, 2014]				|
+Rotherham - http://www.xenosystems.net/rotherham/ [AUGUST 30, 2014]				|
+Moron bites (#2) - http://www.xenosystems.net/moron-bites-2/ [DECEMBER 2, 2014]			|	
+Brown Scare - http://www.xenosystems.net/brown-scare/ [MARCH 12, 2015]				|
+#WrongSkin - http://www.xenosystems.net/wrongskin/ [JUNE 12, 2015]				|
+Peak Insanity - http://www.xenosystems.net/peak-insanity/ [JULY 28, 2015]			|
+Appearances - http://www.xenosystems.net/appearances/ [JANUARY 6, 2016]				|
+Doors of Perception - http://www.xenosystems.net/doors-of-perception/ [AUGUST 13, 2014]			| thought police / control
+Cathedral Autophagy - http://www.xenosystems.net/cathedral-autophagy/ [AUGUST 31, 2014]			|
+Media ADHD - http://www.xenosystems.net/media-adhd/ [DECEMBER 5, 2014]					|
+War of the Worlds - http://www.xenosystems.net/war-of-the-worlds/ [MARCH 4, 2015]			|
+Age of Independence - http://www.xenosystems.net/age-of-independence/ [AUGUST 13, 2015]			|
+Visual Pwnage - http://www.xenosystems.net/visual-pwnage/ [AUGUST 23, 2016]				|
+Linkage - http://www.xenosystems.net/linkage/ [MAY 1, 2017]						|
+Mau-Mauing - http://www.xenosystems.net/mau-mauing/ [JUNE 22, 2013]					| - race politics
+Peak Racism? - http://www.xenosystems.net/peak-racism/ [AUGUST 11, 2013]				|
+Hate - http://www.xenosystems.net/hate/ [MARCH 4, 2014]							|
+Wacky Races - http://www.xenosystems.net/wacky-races/ [APRIL 19, 2014]					|
+Diversitocracy Crisis - http://www.xenosystems.net/diversitocracy-crisis/ [JUNE 20, 2014]		|
+Wayback Privilege - http://www.xenosystems.net/wayback-privilege/ [AUGUST 1, 2015]			|
+Quote note (#235) - http://www.xenosystems.net/quote-note-235/ [APRIL 1, 2016]				|
+Race Talk - http://www.xenosystems.net/race-talk/ [JULY 5, 2017]					|
+Evo Psych Ward - http://www.xenosystems.net/evo-psych-ward/ [JULY 14, 2014]				| - iq/ behavioral genetics
+Misbheaving Science - http://www.xenosystems.net/misbehaving-science/ [JULY 15, 2014]			|
+Quote note (#180) - http://www.xenosystems.net/quote-note-180/ [AUGUST 27, 2015]			|
+Autophagic Leftism - http://www.xenosystems.net/autophagic-leftism/ [AUGUST 4, 2014]			|
+IQ Crime-Stop - http://www.xenosystems.net/iq-crime-stop/ [AUGUST 12, 2014]				|
+In Our Genes - http://www.xenosystems.net/in-our-genes/ [SEPTEMBER 10, 2014]				|
+Shrunken Brains - http://www.xenosystems.net/shrunken-brains/ [APRIL 1, 2015]				|
+Mental Gymnastics - http://www.xenosystems.net/mental-gymnastics/ [SEPTEMBER 29, 2015]			|
+Vaguely Smart - http://www.xenosystems.net/vaguely-smart/ [JANUARY 19, 2016]				|
+Trolls Explained - http://www.xenosystems.net/trolls-explained/ [AUGUST 15, 2014]			| - against trolls
+CWoT - http://www.xenosystems.net/cwot/ [AUGUST 21, 2014]						|
+Twitter wants to die - http://www.xenosystems.net/twitter-wants-to-die/ [SEPTEMBER 22, 2016]		| - in tech
+Algorithmic Diversitocracy - http://www.xenosystems.net/algorithmic-diversitocracy/ [OCTOBER 11, 2016]	|
+Signs of Progress - https://oldnicksite.wordpress.com/2012/02/07/signs-of-progress/ [FEBRUARY 7, 2012]	| economics / policy
+Economies of Deceit - http://www.xenosystems.net/economies-of-deceit/ [JULY 28, 2013]			|
+Race Science - http://www.xenosystems.net/race-science/ [FEBRUARY 2, 2014]				|
+Suicide by Science - http://www.xenosystems.net/suicide-by-science/ [MARCH 25, 2015]			|
+Unspoken Agendas - http://www.xenosystems.net/unspoken-agendas/ [MARCH 16, 2014]			|
+Displacement - http://www.xenosystems.net/displacement/ [JULY 18, 2015]					|
+Aletheia - http://www.xenosystems.net/aletheia/ [JULY 28, 2014]						|
+Swtch-Point - http://www.xenosystems.net/switch-point/ [AUGUST 15, 2015]				|
+Moron bites (#13) - http://www.xenosystems.net/moron-bites-13/ [MAY 13, 2016]				|
+Criminals at Work - http://www.xenosystems.net/criminals-at-work/ [AUGUST 4, 2013]	| deep state / dark twin
+Dark Humor - http://www.xenosystems.net/dark-humor/ [DECEMBER 7, 2013]			|
+The Left Done Right - http://www.xenosystems.net/the-left-done-right/ [DECEMBER 9, 2013]|
+Deep State - http://www.xenosystems.net/deep-state/ [DECEMBER 12, 2014]			|
+Off the Books - http://www.xenosystems.net/off-the-books/ [DECEMBER 18, 2014]		|
+Quote note (#300) - http://www.xenosystems.net/quote-note-300/ [NOVEMBER 6, 2016]	|
+Sentences (#32) - http://www.xenosystems.net/sentences-32/ [DECEMBER 10, 2015]					| current events
+Sentences (#35) - http://www.xenosystems.net/sentences-35/ [JANUARY 7, 2016]					|
+The NRx Presidency - http://www.xenosystems.net/the-nrx-presidency/ [MAY 19, 2016]				|
+Shrink-Wrapped Shadenfreude - http://www.xenosystems.net/shrink-wrapped-schadenfreude/ [NOVEMBER 17, 2016]	|
+View from the Left - http://www.xenosystems.net/view-from-the-left/ [JULY 9, 2013]		|
+Cathedral Decay - http://www.xenosystems.net/cathedral-decay/ [OCTOBER 30, 2015]		| decline
+Sentences (#38) - http://www.xenosystems.net/sentences-38/ [JANUARY 18, 2016]			|
+Quotable (#149) - http://www.uf-blog.net/quotable-149/ [MARCH 21, 2016]				|
+The Market from Hell - http://www.xenosystems.net/the-market-from-hell/ [APRIL 6, 2016]		|
+WeSearchr - http://www.xenosystems.net/wesearchr/ [MAY 26, 2016]				|
+The Global Faith - http://www.xenosystems.net/the-global-faith/ [JULY 13, 2016]			|
+Quote note (#270) - http://www.xenosystems.net/quote-note-270/ [AUGUST 8, 2016]			|
+Net-Driven Collapse - http://www.xenosystems.net/net-driven-collapse/ [SEPTEMBER 23, 2016]	|
+Recall - http://www.xenosystems.net/recall/ [NOVEMBER 15, 2016]					|
+-DEMOCRACY AND DEMOTISM
+The Red Pill - http://www.xenosystems.net/the-red-pill/ [DECEMBER 18, 2013]					| systematic characteristics
+Deal with the Devil - http://www.xenosystems.net/deals-with-the-devil/ [AUGUST 6, 2014]				|
+The Problem of Democracy - http://www.xenosystems.net/the-problem-of-democracy/ [AUGUST 9, 2014]		|
+Irresponsibility - http://www.xenosystems.net/irresponsibility/ [NOVEMBER 3, 2014]				|
+Quote note (#176) - http://www.xenosystems.net/quote-note-176/ [JULY 31, 2015]					|
+Apophatic Politics - http://www.xenosystems.net/apophatic-politics/ [JUNE 16, 2014]				|
+Non-Democracy - http://www.xenosystems.net/non-democracy/ [AUGUST 21, 2014]					|
+Enthusiasm - http://www.xenosystems.net/enthusiasm/ [OCTOBER 7, 2014]						|
+Dysnasty - http://www.xenosystems.net/dynasty/ [JULY 21, 2015]							|
+Informality and its Discontents - http://www.xenosystems.net/informality-and-its-discontents/ [APRIL 13, 2016]	|
+One Step at a Time - http://www.xenosystems.net/one-step-at-a-time/ [JUNE 12, 2013]				|
+Scandalicious - http://www.xenosystems.net/scandalicious/ [MAY 16, 2013]					|
+Obamanation... - http://www.xenosystems.net/obamanation/ [SEPTEMBER 2, 2013]					|
+Democracy is Doomed - http://www.xenosystems.net/democracy-is-doomed/ [FEBRUARY 28, 2014]			|
+1930s Reloaded - http://www.xenosystems.net/1930s-reloaded/ [JANUARY 12, 2015]					| - trends
+Idiocracy - http://www.xenosystems.net/idiocracy/ [JANUARY 22, 2015]						|
+Polarization - http://www.uf-blog.net/polarization/ [APRIL 25, 2015]						|
+The Polarizer - http://www.uf-blog.net/the-polarizer/ [DECEMBER 3, 2015]						|
+King Mob - http://www.xenosystems.net/king-mob/ [AUGUST 14, 2014] 						| - street thuggery
+Rule Britannia - http://www.xenosystems.net/rule-britannia/ [NOVEMBER 1, 2013]					|
+Quote note (#232) - http://www.xenosystems.net/quote-note-232/ [MARCH 17, 2016]					|
+Twitter cuts (#68) - http://www.xenosystems.net/twitter-cuts-68/ [JUNE 3, 2016]					|
+Days of Rage - http://www.xenosystems.net/days-of-rage/ [JANUARY 16, 2017]					|
+Quote notes (#34) - http://www.xenosystems.net/quote-notes-34/ [SEPTEMBER 28, 2013]		| economic degeneracy
+Liberality for Losers - http://www.xenosystems.net/liberality-for-losers/ [DECEMBER 6, 2013]	|
+Parasites - http://www.xenosystems.net/parasites/ [JUNE 23, 2014]				|
+De-Dynamization - http://www.xenosystems.net/de-dynamization/ [OCTOBER 20, 2014]		|
+What Democracy Can't Do - http://www.xenosystems.net/what-democracy-cant-do/ [JUNE 19, 2015]	|
+Collapse - http://www.uf-blog.net/collapse/ [OCTOBER 24, 2016]					|
+Regime Redecoration Randoms - https://oldnicksite.wordpress.com/2012/11/06/regime-redecoration-randoms/ [NOVEMBER 6, 2012]	| elections -US presidential 2012
+UK General Election '15 - http://www.xenosystems.net/uk-general-election-15/ [MAY 8, 2015]					| - UK general 2015
+Popcorn Activism - http://www.xenosystems.net/popcorn-activism/ [NOVEMBER 6, 2014]						| - US presidential 2016
+Popcorn Activism II - http://www.xenosystems.net/popcorn-activism-ii/ [OCTOBER 20, 2015]					|
+Damnesty - http://www.xenosystems.net/damnesty/ [JUNE 11, 2014]									|
+Romney 2016 - http://www.xenosystems.net/romney-2016/ [JANUARY 13, 2015]							|
+Out of the Popcorn Zone - http://www.xenosystems.net/out-of-the-popcorn-zone/ [JULY 16, 2015]					|
+Missing him already - http://www.xenosystems.net/missing-him-already/ [DECEMBER 9, 2015]					|
+Quote note (#215) - http://www.xenosystems.net/quote-note-215/ [FEBRUARY 3, 2016]						|
+Twitter cuts (#99) - http://www.uf-blog.net/twitter-cuts-99/ [FEBRUARY 22, 2016]							|
+Diamond and Silk - http://www.xenosystems.net/diamond-and-silk/ [MARCH 12, 2016]						|
+Sexual Politics - http://www.uf-blog.net/sexual-politics/ [OCTOBER 12, 2016]							|
+Broken Detente - http://www.uf-blog.net/broken-detente/ [NOVEMBER 15, 2016]							|
+So, they did it - http://www.xenosystems.net/so-they-did-it/ [DECEMBER 7, 2016]							|
+Rapture - http://www.xenosystems.net/rapture/ [SEPTEMBER 30, 2013]			| current events
+Nuked - http://www.xenosystems.net/nuked/ [NOVEMBER 21, 2013]				|
+Demo-babble - http://www.xenosystems.net/demo-babble/ [APRIL 8, 2014]			|
+Quote notes (#107) - http://www.xenosystems.net/quote-notes-107/ [SEPTEMBER 12, 2014]	|
+Quotable (#162) - http://www.uf-blog.net/quotable-162/ [MAY 18, 2016]			|
+Civil War II - http://www.xenosystems.net/civil-war-ii/ [JANUARY 20, 2017]		|
+Quote note (#332) - http://www.xenosystems.net/quote-note-332/ [FEBRUARY 15, 2017]	|
+Trump on Syria - http://www.xenosystems.net/trump-on-syria/ [APRIL 6, 2017]		|
+Democratization is Done - http://www.xenosystems.net/democratization-is-done/ [AUGUST 15, 2013]		| fraying at the edges
+Meanwhile, in India ... - http://www.xenosystems.net/meanwhile-in-india/ [MAY 4, 2014]			|
+Modified - http://www.xenosystems.net/modified/ [MAY 16, 2014]						|
+Death Rattle - http://www.xenosystems.net/death-rattle/ [OCTOBER 30, 2014]				|
+Against Democracy - http://www.xenosystems.net/against-democracy/ [FEBRUARY 2, 2015]			|
+Political Correction - http://www.xenosystems.net/political-correction/ [MARCH 21, 2015]		|
+Popcorn Night - http://www.xenosystems.net/popcorn-night/ [AUGUST 7, 2015]				|
+Quote note (#208) - http://www.xenosystems.net/quote-note-208/ [DECEMBER 21, 2015]			|
+Democratic Desconsolidation - http://www.xenosystems.net/democratic-deconsolidation/ [AUGUST 7, 2016]	|
+-CRITIQUE OF LIBERTARIANISM
+The Lost Cause - http://www.xenosystems.net/the-lost-cause/ [JULY 21, 2013]
+The Reaper - http://www.xenosystems.net/the-reaper/ [JULY 17, 2013]
+Atlas Mugged - http://www.xenosystems.net/atlas-mugged/ [JANUARY 8, 2014]
+Right in the Money (#1) - http://www.xenosystems.net/right-on-the-money-1/ [MAY 22, 2013]
+Hayek and Pinochet - http://www.xenosystems.net/hayek-and-pinochet/ [JUNE 28, 2013]
+Confused Cato - http://www.xenosystems.net/confused-cato/ [FEBRUARY 26, 2014]
+Umlaut - http://www.xenosystems.net/umlaut/ [FEBRUARY 17, 2014]
+Libertarians are WEIRD - http://www.xenosystems.net/libertarians-are-weird/ [NOVEMBER 11, 2014]
+Dark AnCap - http://www.xenosystems.net/dark-ancap/ [JANUARY 25, 2016]
+Quote note (#255) - http://www.xenosystems.net/quote-255/ [JUNE 4, 2016]
+Libertarianism for Zombies - http://www.xenosystems.net/libertarianism-for-zombies/ [SEPTEMBER 10, 2013]
+Failure - http://www.xenosystems.net/failure/ [JANUARY 20, 2015]
+Is Libertarianism Racist? - http://www.xenosystems.net/is-libertarianism-racist/ [JUNE 12, 2016]
+Suicidal Libertarianism - http://www.xenosystems.net/suicidal-libertarianism/ [JUNE 25, 2013]
+Suicidal Libertarianism Part D'oh - http://www.xenosystems.net/suicidal-libertarianism-part-doh/ [JULY 7, 2013]
+An Abstract Path to Freedom - http://www.xenosystems.net/an-abstract-path-to-freedom/ [JULY 16, 2013]
+Suicide Express - http://www.xenosystems.net/suicide-express/ [AUGUST 19, 2013]
+Border Follies - http://www.xenosystems.net/border-follies/ [SEPTEMBER 3, 2013]
+Suicidal Libertarianism (Part-n) - http://www.xenosystems.net/suicidal-libertarianism-part-n/ [DECEMBER 2, 2013]
+Scary Sailer - http://www.xenosystems.net/scary-sailer/ [JUNE 3, 2014]
+Quote note (#206) - http://www.xenosystems.net/quote-note-206/ [DECEMBER 15, 2015]
+Anglophidian - http://www.xenosystems.net/anglophidian/ [OCTOBER 28, 2016]
+-CRITIQUE OF CONSERVATISM
+Anarchy on the Old Right - https://oldnicksite.wordpress.com/2012/11/06/anarchy-on-the-old-right/ [NOVEMBER 6, 2012]
+Almost ... - http://www.xenosystems.net/almost/ [SEPTEMBER 26, 2013]
+Things Fall Apart - http://www.xenosystems.net/things-fall-apart/ [DECEMBER 9, 2013]
+Conservatives - http://www.xenosystems.net/conservatives/ [APRIL 2, 2014]
+Conservatism - http://www.xenosystems.net/conservatism/ [JUNE 23, 2014]
+Quote notes (#104) - http://www.xenosystems.net/quote-notes-104/ [AUGUST 23, 2014]
+SJWs of the Right - http://www.xenosystems.net/sjws-of-the-right/ [FEBRUARY 9, 2015]
+Zero Sum - http://www.xenosystems.net/zero-sum/ [FEBRUARY 16, 2015]
+Ace Torches the Popcorn Stand - http://www.xenosystems.net/ace-torches-the-popcorn-stand/ [MARCH 19, 2015]
+What's ub a word? - http://www.xenosystems.net/whats-in-a-word/ [JULY 23, 2015]
+Inversion - http://www.xenosystems.net/inversion/ [JULY 30, 2015]
+Quote note (#227) - http://www.xenosystems.net/quote-note-227/ [MARCH 6, 2016]
+RIP Neoconservatism - http://www.uf-blog.net/rip-neoconservatism/ [MARCH 11, 2016]
+
+TECHNO-COMMERCIALISM
+Crypto-Capitalism - http://www.xenosystems.net/crypto-capitalism/ [OCTOBER 4, 2013]
+Dark Techno-Commercialism - http://www.xenosystems.net/dark-techno-commercialism/ [OCTOBER 13, 2013]
+Re-Accelerationism - http://www.xenosystems.net/re-accelerationism/ [DECEMBER 10, 2013]
+Economic Ends - http://www.xenosystems.net/economic-ends/ [JANUARY 11, 2014]
+New Atlantis - http://www.xenosystems.net/new-atlantis/ [AUGUST 7, 2014]
+Military Determinism - http://www.xenosystems.net/military-determinism/ [MARCH 20, 2015]
+X-Risk Democratization - http://www.xenosystems.net/x-risk-democratization/ [APRIL 22, 2016]
+The NRx Moment - http://www.xenosystems.net/the-nrx-moment/ [APRIL 5, 2016]
+Against Dialectics - http://www.xenosystems.net/against-dialectics/ [DECEMBER 1, 2013]				| exit > voice
+NRx with Chinese Characteristics - http://www.xenosystems.net/nrx-with-chinese-characteristics/ [MARCH 17, 2014]| 
+Catastrophe Capitalism - http://www.xenosystems.net/catastrophe-capitalism/ [DECEMBER 1, 2015]			|
+Doctor Gno - http://www.xenosystems.net/doctor-gno/ [MAY 24, 2014]						|
+Doctor Gno II - http://www.xenosystems.net/doctor-gno-ii/ [APRIL 21, 2016]					|
+Twitter cuts (#63) - http://www.xenosystems.net/twitter-cuts-63/ [MAY 6, 2016]					|
+Romantic Delusion - http://www.xenosystems.net/romantic-delusion/ [FEBRUARY 9, 2014]	| against other trike branches
+Motte and Bailey - http://www.xenosystems.net/motte-and-bailey/ [AUGUST 5, 2014]	|
+Shelling Out - http://www.xenosystems.net/shelling-out/ [AUGUST 5, 2014]		|
+Quote note (#125) - http://www.xenosystems.net/quote-note-125/ [OCTOBER 30, 2014]	|
+IQ Shredders - http://www.xenosystems.net/iq-shredders/ [JULY 17, 2014]	| modernity's fertility problem
+Cold Water - http://www.xenosystems.net/cold-water/ [FEBRUARY 3, 2015]	|
+Hard Reboot - http://www.xenosystems.net/reboot/ [FEBRUARY 20, 2014]							| tech-comm governance
+Mandatory Mixes - http://www.xenosystems.net/mandatory-mixes/ [SEPTEMBER 9, 2014]					|
+Extrastatecraft - http://www.xenosystems.net/extrastatecraft/ [DECEMBER 20, 2014]					|
+Cognitive Capital - http://www.xenosystems.net/cognitive-capital/ [NOVEMBER 6, 2015]					|
+Quote note (#219) - http://www.xenosystems.net/quote-note-219/ [FEBRUARY 9, 2016]					|
+Software as Right-Wing Extremism - http://www.xenosystems.net/software-as-right-wing-extremism/ [SEPTEMBER 18, 2016]	|
+The Workers are Revolting... - http://www.xenosystems.net/the-workers-are-revolting/ [APRIL 25, 2013]			|
+Plutocracy - http://www.xenosystems.net/plutocracy/ [NOVEMBER 6, 2013]			| plutocrats
+Revenge of the Nerds - http://www.xenosystems.net/revenge-of-the-nerds/ [MARCH 21, 2014]|
+Quote notes (#72) - http://www.xenosystems.net/quote-notes-72/ [APRIL 12, 2014]		|
+Greatness - http://www.xenosystems.net/greatness/ [MARCH 23, 2015]			|
+Order - http://www.xenosystems.net/order/ [JUNE 2, 2016]				|
+Quote note (#281) - http://www.xenosystems.net/quote-note-281/ [SEPTEMBER 7, 2016]	|
+Interface - http://www.xenosystems.net/interface/ [OCTOBER 21, 2014]			| - SV
+Patry-Archy - http://www.xenosystems.net/patri-archy/ [FEBRUARY 23, 2015]		|
+Soft Enterprise - http://www.xenosystems.net/soft-enterprise/ [APRIL 22, 2015]		|
+Bargain Base - http://www.xenosystems.net/bargain-base/ [JULY 22, 2015]			|
+Greatness II - http://www.xenosystems.net/greatness-ii/ [AUGUST 19, 2015]		|
+Greatness IIb - http://www.xenosystems.net/greatness-iib/ [AUGUST 20, 2015]		|
+Greatness IIc - http://www.xenosystems.net/greatness-iic/ [APRIL 9, 2016]		|
+Thiel for SCOTUS? - http://www.xenosystems.net/thiel-for-scotus/ [SEPTEMBER 15, 2016]	|
+Thiel's NPC Speech - http://www.xenosystems.net/thiels-npc-speech/ [NOVEMBER 2, 2016]	|
+Backdrop - http://www.xenosystems.net/backdrop/ [JANUARY 19, 2017]			|
+SF Communism - http://www.xenosystems.net/sf-communism/ [MAY 15, 2017]			|
+
+CYBERNETICS
+Quotable (#82) - #82 - http://www.uf-blog.net/quotable-82/ [APRIL 30, 2015]
+Logic and Nonlinearity - http://www.xenosystems.net/logic-and-nonlinearity/ [MAY 2, 2015]	
+Short Circuit - http://www.xenosystems.net/short-circuit/ [JUNE 3, 2015]
+Short Circuit II -http://www.xenosystems.net/short-circuit-ii/ [JUNE 4, 2015]
+Fractal Inside-Outness - http://www.xenosystems.net/fractal-inside-outness/ [JUNE 12, 2015]
+Twitter cuts (#29) - http://www.xenosystems.net/twitter-cuts-29/ [SEPTEMBER 22, 2015]
+Quotable (#123) - http://www.uf-blog.net/quotable-123/ [NOVEMBER 26, 2015]
+Non-Shock - http://www.xenosystems.net/non-shock/ [MARCH 4, 2013]
+The Monkey Trap - http://www.xenosystems.net/the-monkey-trap/ [August 31, 2013]	| traps
+The Heat Trap - http://www.xenosystems.net/the-heat-trap/ [October 29, 2013]	| 
+The Sex Trap - http://www.xenosystems.net/the-sex-trap/ [JANUARY 13, 2016]	|
+Twitter cuts (#106) - http://www.uf-blog.net/twitter-cuts-106/ [MARCH 25, 2016]	|
+The Basics - http://www.xenosystems.net/the-basics/ [JANUARY 12, 2016]		| tragedy
+-INTELLIGENCE
+Optimize for Intelligence - http://www.xenosystems.net/optimize-for-intelligence/ [MARCH 15, 2013]
+What is Intelligence? - http://www.xenosystems.net/what-is-intelligence/ [MARCH 19, 2013]
+More Thought - http://www.xenosystems.net/more-thought/ [OCTOBER 8, 2013]
+Against Orthogonality - http://www.xenosystems.net/against-orthogonality/ [OCTOBER 25, 2013]
+Stupid Monsters - http://www.xenosystems.net/stupid-monsters/ [AUGUST 25, 2014]
+Will-to-Think - http://www.xenosystems.net/will-to-think/ [SEPTEMBER 15, 2014]
+Parable of the Vase - http://www.uf-blog.net/parable-of-the-vase/ [NOVEMBER 20, 2015]
+General Intelligence - http://www.xenosystems.net/general-intelligence/ [MARCH 11, 2016]
+Insect Agonies - http://www.xenosystems.net/insect-agonies/ [SEPTEMBER 24, 2015]
+Utilitarianism is Useless - http://www.xenosystems.net/utilitarianism-is-useless/ [MARCH 25, 2016]
+Intelligence and the Good - http://www.xenosystems.net/intelligence-and-the-good/ [APRIL 2, 2016]
+Quote note (#251) - http://www.xenosystems.net/quote-note-251/ [MAY 18, 2016]
+Quote note (#253) - http://www.xenosystems.net/quote-note-253/ [MAY 28, 2016]
+One in 10,000 - http://www.xenosystems.net/one-in-10000/ [SEPTEMBER 12, 2016]
+Harsh, but True - http://www.xenosystems.net/harsh-but-true/ [FEBRUARY 28, 2013]
+Sentences (#86) - http://www.xenosystems.net/sentences-86/ [JANUARY 12, 2017]
+-XENOECONOMICS
+Teleology and Camouflage - http://www.xenosystems.net/teleology-and-camouflage/ [April 8, 2013]	| teleology
+Freedom (Prelude-1a) -http://www.xenosystems.net/freedoom-prelude-1a/ [JULY 5, 2014]		|
+Economic Teleology - http://www.uf-blog.net/economic-teleology/ [AUGUST 22, 2014]		|
+Machine Teleology - http://www.uf-blog.net/machine-teleology/ [OCTOBER 27, 2014]			|
+Machine Lock - http://www.xenosystems.net/machine-lock/ [OCTOBER 27, 2014]			|
+Right on the Money (#2) http://www.xenosystems.net/right-on-the-money-2/ [June 3, 2013]	| capital, the thing
+Monkey Business - http://www.xenosystems.net/monkey-business/ [NOVEMBER 24, 2013]	|
+Quote note (#239) - http://www.xenosystems.net/quote-note-239/ [APRIL 18, 2016]		|
+Mechanization - http://www.xenosystems.net/mechanization/ [JUNE 4, 2014]		|
+Capitalism - http://www.xenosystems.net/capitalism/ [JUNE 23, 2014]			|
+Complex Systems - http://www.uf-blog.net/complex-systems/ [JULY 23, 2014]		|
+A Correction - http://www.xenosystems.net/a-correction/ [JANUARY 26, 2016]		|
+Cybergothic - http://www.xenosystems.net/cybergothic/ [JULY 3, 2016]			|
+Qwernomics - http://www.xenosystems.net/qwernomics/ [AUGUST 18, 2016]			|
+Spotless - http://www.xenosystems.net/spotless/ [SEPTEMBER 11, 2014]		| energetic rhythms
+Over the Peak - http://www.xenosystems.net/over-the-peak/ [JULY 13, 2013]	|
+Oil Pulse - http://www.xenosystems.net/oil-pulse/ [JANUARY 27, 2015]		|
+Oil Pulse (II) - http://www.xenosystems.net/oil-pulse-ii/ [JANUARY 30, 2015]	|
+Trough Oil - http://www.xenosystems.net/trough-oil/ [APRIL 14, 2015]		|
+It Isn't Time - http://www.xenosystems.net/it-isnt-time/ [MAY 15, 2013]				| economic waves / catallaxy
+Replicator Usurpation - http://www.uf-blog.net/replicator-usurpation/ [JUNE 3, 2014]		|
+Competitive Cycles - http://www.uf-blog.net/competitive-cycles/ [JUNE 4, 2014]			|
+Rhythmic Reality - http://www.xenosystems.net/rhythmic-reality/ [SEPTEMBER 10, 2014]		|
+Flash Ecology - http://www.xenosystems.net/flash-ecology/ [OCTOBER 25, 2014]			|
+Sentences (#5) - http://www.xenosystems.net/sentences-5/ [JANUARY 13, 2015]			|
+Quotable (#150) - http://www.uf-blog.net/quotable-150/ [MARCH 27, 2016]				|
+Piketty - http://www.xenosystems.net/piketty/ [MARCH 31, 2014]					| - growth and capital
+The Delirium of Quantities - http://www.uf-blog.net/the-delirium-of-quantities/ [APRIL 22, 2014]	|
+Sub-K - http://www.uf-blog.net/sub-k/ [MAY 8, 2014]						|
+Quote notes (#73) - http://www.xenosystems.net/quote-notes-73/ [APRIL 15, 2014]			|
+Omega Capitalism - http://www.uf-blog.net/omega-capitalism/ [JULY 29, 2014]			|
+Quotable (#25) - http://www.uf-blog.net/quotable-25/ [JULY 30, 2014]				|
+Objectified Growth - http://www.uf-blog.net/objectified-growth/ [NOVEMBER 19, 2014]		|
+Twitter cuts (#28) - http://www.uf-blog.net/twitter-cuts-28/ [DECEMBER 10, 2014]			|
+The Black Gate - http://www.xenosystems.net/the-black-gate/ [MARCH 6, 2015]			| - human substitution
+Great Decoupling - http://www.xenosystems.net/great-decoupling/ [MAY 25, 2015]			|
+Labor Power - http://www.xenosystems.net/labor-power/ [MAY 26, 2015]				|
+Great Decoupling II - http://www.xenosystems.net/great-decoupling-ii/ [MAY 27, 2015]		|
+Divergence - http://www.uf-blog.net/divergence/ [OCTOBER 13, 2015]				|
+Gender Quake - http://www.uf-blog.net/gender-quake/ [AUGUST 3, 2015]				|
+Twitter Mind Virus - http://www.xenosystems.net/twitter-mind-virus/ [NOVEMBER 20, 2013]	| social media / attention economy / disintermediation
+De-Localized - http://www.xenosystems.net/de-localized/ [FEBRUARY 5, 2014]		|
+More on Micromedia - http://www.xenosystems.net/more-on-micromedia/ [FEBRUARY 6, 2014]	|
+Speckle - http://www.xenosystems.net/speckle/ [FEBRUARY 7, 2014]			|
+Macromedia (too) - http://www.xenosystems.net/macromedia-too/ [FEBRUARY 12, 2014]	|
+Future Mutation - http://www.xenosystems.net/future-mutation/ [APRIL 10, 2014]		|
+Instant Publishing - http://www.xenosystems.net/instant-publishing/ [APRIL 11, 2014]	|
+Attention Economy - http://www.xenosystems.net/attention-economy/ [JULY 19, 2014]	|
+Sweet Tweets - http://www.xenosystems.net/sweet-tweets/ [NOVEMBER 3, 2015]		|
+Virtual Media - http://www.xenosystems.net/virtual-media/ [FEBRUARY 23, 2016]		|
+Radical Manufacturing - https://oldnicksite.wordpress.com/2011/07/06/radical-manufacturing/ [JULY 6, 2011]	| self-assembling techs
+Hacked Matter - http://www.xenosystems.net/hacked-matter/ [OCTOBER 20, 2013]					|
+Market Markers - http://www.uf-blog.net/market-makers/ [OCTOBER 22, 2013]					|
+Watch Out - http://www.xenosystems.net/watch-out/ [MAY 19, 2014]						|
+Oculus - http://www.xenosystems.net/oculus/ [JULY 16, 2014]							|
+Military-Entertainment Complex - http://www.xenosystems.net/military-entertainment-complex/ [NOVEMBER 4, 2014]	|
+Technoporosity - http://www.uf-blog.net/technoporosity/ [MARCH 27, 2015]						|
+The Fifth Paradigm - http://www.xenosystems.net/the-fifth-paradigm/ [SEPTEMBER 17, 2016]			|
+Pythia Unbound - http://www.xenosystems.net/pythia-unbound/ [SEPTEMBER 11, 2013]			| AI
+Scrap notes (#5) - http://www.xenosystems.net/scrap-note-5/ [JANUARY 30, 2014]				|
+Imitation Games - http://www.xenosystems.net/imitation-games/ [APRIL 16, 2014]				|
+The Inhumanity - http://www.xenosystems.net/the-inhumanity/ [SEPTEMBER 30, 2014]			|
+Cosmic Copies - http://www.xenosystems.net/cosmic-copies/ [MAY 9, 2014]					|
+Uncanny Valley - http://www.xenosystems.net/uncanny-valley/ [JULY 8, 2014]				|
+UFII - http://www.xenosystems.net/ufii/ [AUGUST 16, 2014]						|
+Dark Precursor - http://www.xenosystems.net/dark-precursor/ [JANUARY 10, 2015]				|
+Free AI - http://www.uf-blog.net/free-ai/ [AUGUST 20, 2015]						|
+Tay Goes Cray - http://www.xenosystems.net/tay-goes-cray/ [MARCH 24, 2016]				|
+Quote note (#254) - http://www.xenosystems.net/quote-note-254/ [JUNE 1, 2016]				|
+Primordial Abstractions - https://jacobitemag.com/2019/04/03/primordial-abstraction/ [APRIL 3, 2019]	|
+Out of Zero - http://www.xenosystems.net/out-of-zero/ [JUNE 23, 2015]				| war against humans
+Gigadeath War - http://www.xenosystems.net/gigadeath-war/ [AUGUST 22, 2014]			|
+Virtually Insightful - http://www.xenosystems.net/vitually-insightful/ [OCTOBER 17, 2014]	|
+Capital Escapes - http://www.xenosystems.net/capital-escapes/ [NOVEMBER 21, 2014]		|
+Extinction Genetics - http://www.xenosystems.net/extinction-genetics/ [MAY 6, 2016]		|
+Sentences (#97) - http://www.xenosystems.net/sentences-97/ [APRIL 27, 2017]			|
+
+PHYLOSOPHY
+What is Phylosophy? (Part 1) - http://www.xenosystems.net/what-is-philosophy/ [FEBRUARY 26, 2013]
+What is Phylosophy? (Part 2a) - http://www.xenosystems.net/what-is-philosophy-part-2a/ [JULY 5, 2013]
+Epoché - http://www.uf-blog.net/epoche/ [OCTOBER 14, 2014]
+Nitzschean Shards - http://www.xenosystems.net/nietzschean-shards/ [OCTOBER 26, 2013]
+Scrap note (#13) - http://www.xenosystems.net/scrap-note-13/ [MAY 21, 2014] (middle excerpt)
+Quotable (#47) - http://www.uf-blog.net/quotable-47/ [NOVEMBER 13, 2014]
+Science - http://www.xenosystems.net/science/ [JULY 12, 2013]				| - science
+Correlated - http://www.xenosystems.net/correlated/ [AUGUST 26, 2014]			|
+Quote note (#217) - http://www.xenosystems.net/quote-note-217/ [FEBRUARY 8, 2016]	|
+The Limits of Man - http://www.uf-blog.net/the-limits-of-man/ [SEPTEMBER 11, 2016]	|
+OOPs - http://www.uf-blog.net/oops/ [NOVEMBER 12, 2014]					| on others
+Voyages in Irony - http://www.xenosystems.net/voyages-in-irony/ [NOVEMBER 29, 2014]	|
+Sub-Cognitive Fragments (#1) - http://www.xenosystems.net/sub-cognitive-fragments-1/ [NOVEMBER 11, 2013]| thought
+Sub-Cognitive Fragments (#2) - http://www.xenosystems.net/sub-cognitive-fragments-2/ [MARCH 3, 2014]	|
+Scrap note (#8) - http://www.xenosystems.net/scrap-note-8/ [MARCH 12, 2014]				|
+Scrap note (#3) - http://www.xenosystems.net/scrap-notes-3/ [JANUARY 24, 2014]			| nihilism
+Nihilism and Destiny - http://www.xenosystems.net/nihilism-and-destiny/ [MARCH 18, 2014]	|
+Triple Nihilism - http://www.xenosystems.net/triple-nihilism/ [SEPTEMBER 1, 2014]		|
+Cosmic concealment - http://www.xenosystems.net/cosmic-concealment/ [SEPTEMBER 3, 2014]		|
+T-shirt slogans (#17) - http://www.xenosystems.net/t-shirt-slogans-17/ [OCTOBER 18, 2014]	|
+A Socratic Fragment - http://www.xenosystems.net/a-socratic-fragment/ [MARCH 19, 2016]		|
+Axial Age - http://www.xenosystems.net/axial-age/ [SEPTEMBER 23, 2013]			| - morality
+Morality - http://www.xenosystems.net/morality/ [NOVEMBER 10, 2014]			|
+Metaphysics of Morals - http://www.uf-blog.net/metaphysics-of-morals/ [OCTOBER 19, 2015]	|
+Quotable (#128) - http://www.uf-blog.net/quotable-128/ [DECEMBER 16, 2015]		|
+Ayn Rand - http://www.xenosystems.net/ayn-rand/ [APRIL 11, 2017]			|
+Freedom (Prelude-1) - http://www.xenosystems.net/freedoom-prelude-1/ [JUNE 9, 2014]			| agency and destiny
+Quote note (#116) - http://www.xenosystems.net/quote-note-116/ [OCTOBER 6, 2014]			|
+Beyond the Face - http://www.xenosystems.net/beyond-the-face/ [OCTOBER 9, 2014]				|
+Freedom (Prelude-1b) - http://www.xenosystems.net/freedoom-prelude-1b/ [OCTOBER 29, 2014]		|
+Readiness Potential - http://www.uf-blog.net/readiness-potential/ [JUNE 2, 2015]				|
+Astro-Humanism - http://www.uf-blog.net/astro-humanism/ [NOVEMBER 27, 2015]				|
+Quotable (#145) - http://www.uf-blog.net/quotable-145/ [MARCH 7, 2016]					|
+Techno-Immortalist Delusion - http://www.xenosystems.net/techno-immortalist-delusion/ [MARCH 14, 2016]	|
+Kant around the back - http://www.uf-blog.net/kant-around-the-back/ [DECEMBER 29, 2016]			|
+Sentences (#99) - http://www.xenosystems.net/sentences-99/ [MAY 3, 2017]				|
+
+
+IV ABSTRACT HORROR: The Unknown, as The Unknown
+
+INTRO
+Time Spiral Press - http://www.xenosystems.net/time-spiral-press/ [DECEMBER 10, 2013]*
+Pet Trolls (#1) - http://www.xenosystems.net/pet-trolls-1/ [AUGUST 5, 2014]
+Be Warned - http://www.xenosystems.net/be-warned/ [OCTOBER 2, 2014]
+Be Warned II - http://www.xenosystems.net/be-warned-ii/ [OCTOBER 19, 2014]
+Sexual Topology - http://www.xenosystems.net/sexual-topology/ [APRIL 1, 2017]
+
+ABSTRACT HORROR
+Antechamber to Horror - http://www.xenosystems.net/antechamber-to-horror/ [AUGUST 12, 2013]
+Antechamber to Horror II - http://www.xenosystems.net/antechamber-to-horror-ii/ [AUGUST 13, 2013]
+Abstract Horror (Part 1) - http://www.xenosystems.net/abstract-horror-part-1/ [AUGUST 21, 2013]
+Abstract Horror (Part 1a) - http://www.xenosystems.net/abstract-horror-part-1a/ [AUGUST 29, 2013]
+Abstract Horror (Part 2) - http://www.xenosystems.net/abstract-horror-part-2/ [SEPTEMBER 20, 2013]
+Abstract Horror (Note-1) - http://www.xenosystems.net/abstract-horror-note-1/ [DECEMBER 14, 2013]
+Abstract Horror (Note-1a) - http://www.xenosystems.net/abstract-horror-note-1a/ [DECEMBER 13, 2014]
+Abstract Horror (Note-2) http://www.xenosystems.net/abstract-horror-note-2/ [SEPTEMBER 5, 2014]
+Abstract Horror (Note-3) http://www.xenosystems.net/abstract-horror-note-3/ [NOVEMBER 12, 2014]
+-HORRORISM
+Reactionary Horror - http://www.xenosystems.net/reactionary-horror/ [AUGUST 18, 2013]
+Horrorism - http://www.xenosystems.net/horrorism/ [NOVEMBER 3, 2013]
+Deeper Darkness - http://www.xenosystems.net/deeper-darkness/ [NOVEMBER 18, 2013]
+Mission Creep - http://www.xenosystems.net/mission-creep/ [DECEMBER 4, 2013]
+Horrified - http://www.xenosystems.net/horrified/ [JANUARY 9, 2014]
+Darkness - http://www.xenosystems.net/darkness/ [JULY 21, 2014]
+Moral Terror - http://www.xenosystems.net/moral-terror/ [FEBRUARY 27, 2015]
+Quote notes (#66) - http://www.xenosystems.net/quote-notes-66/ [MARCH 15, 2014]
+Deep Ruin - http://www.xenosystems.net/deep-ruin/ [JULY 4, 2014]
+2014 Lessons (#2) - http://www.xenosystems.net/2014-lessons-2/ [DECEMBER 31, 2014]
+Scrap Note (#7) - http://www.xenosystems.net/scrap-note-7/ [MARCH 5, 2014]		| method
+Fnord Prefect - http://www.xenosystems.net/fnord-prefect/ [MAY 27, 2014]		|
+Twitter cuts (#11) - http://www.xenosystems.net/twitter-cuts-11/ [FEBRUARY 27, 2015]	|
+The Liberal Agony - http://www.xenosystems.net/the-liberal-agony/ [AUGUST 20, 2014]	| in practice
+"Darkness, yeaah" - http://www.xenosystems.net/darkness-yeaah/ [JULY 1, 2014]		|
+Our Future - http://www.xenosystems.net/our-future/ [OCTOBER 11, 2014]			|
+Sam X - http://www.xenosystems.net/sam-x/ [DECEMBER 24, 2014]				|
+Dazed and Confused - http://www.xenosystems.net/dazed-and-confused/ [JANUARY 29, 2015]	|
+Dark Darwin - http://www.xenosystems.net/dark-darwin/ [MARCH 4, 2015]			|
+Doom Horizon - http://www.xenosystems.net/doom-horizon/ [JUNE 1, 2015]			|
+Quote note (#173) - http://www.xenosystems.net/quote-note-173/ [JULY 15, 2015]		|
+Skinless - http://www.xenosystems.net/skinless/ [OCTOBER 21, 2015]			|
+Quote note (#200) - http://www.xenosystems.net/quote-note-201/ [NOVEMBER 17, 2015]	|
+Silent Night - http://www.xenosystems.net/silent-night/ [DECEMBER 24, 2015]		|
+Quote note (#213) - http://www.xenosystems.net/quote-note-213/ [JANUARY 30, 2016]	|
+-SPLINTERS OF HORROR
+Outside - http://www.xenosystems.net/outsider/ [JUNE 9, 2013]
+Quote Notes (#21) - http://www.xenosystems.net/quote-notes-21/ [AUGUST 17, 2013]
+Quote notes (#26) - http://www.xenosystems.net/quote-notes-26/ [SEPTEMBER 3, 2013]
+An Enduring Faith - http://www.xenosystems.net/an-enduring-faith/ [NOVEMBER 26, 2013]
+The horror... - http://www.xenosystems.net/the-horror/ [NOVEMBER 27, 2013]
+Involvements with Irreality - http://www.xenosystems.net/involvements-with-irreality/ [DECEMBER 11, 2013]
+Sleigher - http://www.xenosystems.net/sleigher/ [DECEMBER 16, 2013]
+Grrrr - http://www.xenosystems.net/grrrr/ [DECEMBER 22, 2014]
+Creepypasta - http://www.xenosystems.net/creepypasta/ [DECEMBER 30, 2013]
+Slow Monsters - http://www.xenosystems.net/slow-monsters/ [FEBRUARY 27, 2014]
+Exhumation - http://www.xenosystems.net/exhumation/ [APRIL 22, 2014]
+Nuke the UK from Orbit - http://www.xenosystems.net/nuke-the-uk-from-orbit/ [JUNE 25, 2014]
+Red in Stalk and Claw - http://www.xenosystems.net/red-in-stalk-and-claw/ [AUGUST 7, 2014]
+Faceless - http://www.xenosystems.net/faceless/ [SEPTEMBER 2, 2014]
+Here it comes ... - http://www.xenosystems.net/here-it-comes/ [SEPTEMBER 3, 2014]
+Face Hugs - http://www.xenosystems.net/face-hugs/ [OCTOBER 23, 2014]
+Club 333 - http://www.xenosystems.net/club-333/ [JANUARY 8, 2015]
+The Gnonion - http://www.xenosystems.net/the-gnonion/ [JANUARY 30, 2015]
+Vilarrica - http://www.xenosystems.net/villarrica/ [MAY 20, 2015]
+Can I Sue? - http://www.xenosystems.net/can-i-sue/ [JUNE 24, 2015]
+Crawling Roots - http://www.xenosystems.net/crawling-roots/ [JULY 6, 2015]
+Xenocryption - http://www.uf-blog.net/xenocryption/ [SEPTEMBER 20, 2015]
+Alien Invasion - http://www.uf-blog.net/alien-invasion/ [NOVEMBER 10, 2015]
+05/11/2016 - http://www.xenosystems.net/5112016-2/ [NOVEMBER 5, 2016]
+-MONSTERS
+Expected Unknowns - http://www.xenosystems.net/expected-unknowns/ [APRIL 3, 2014]	| terminator/ great filter
+Exterminator - http://www.xenosystems.net/exterminator/ [AUGUST 8, 2014]		|
+Quote note (#113) - http://www.xenosystems.net/quote-note-113/ [SEPTEMBER 30, 2014]	|
+Abstract Threat - http://www.xenosystems.net/abstract-threat/ [OCTOBER 3, 2014]		|
+Still Greater - http://www.xenosystems.net/still-greater/ [APRIL 18, 2015]		|
+Filtration - http://www.xenosystems.net/filtration/ [APRIL 20, 201]			|
+Cthulhu, leftist? - http://www.xenosystems.net/cthulhu-leftist/ [FEBRUARY 19, 2013]	| Old Ones
+Yuggoth - http://www.xenosystems.net/yuggoth/ [FEBRUARY 24, 2015]	| space
+Pluto - http://www.xenosystems.net/pluto/ [JULY 14, 2015]		|
+Pluto II - http://www.xenosystems.net/pluto-ii/ [JULY 25, 2015]		|
+In the Mouth of Madness - http://www.xenosystems.net/in-the-mouth-of-madness/ [DECEMBER 16, 2013]	| Roko's Basilisk / AI in a Box
+Basking in the Basilisk - http://www.xenosystems.net/basking-in-the-basilisk/ [APRIL 15, 2016]		|
+Pandora's Box - http://www.xenosystems.net/pandoras-box/ [JANUARY 13, 2014]				|
+Close ... - http://www.xenosystems.net/close/ [OCTOBER 21, 2014]					|
+Zombie Hunger - http://www.xenosystems.net/zombie-hunger/ [AUGUST 25, 2013]		| zombies
+Quote notes (#23) - http://www.xenosystems.net/quote-notes-23-2/ [AUGUST 29, 2013]	|
+Zombie Wars - http://www.xenosystems.net/zombie-wars/ [FEBRUARY 19, 2014]		|
+Zacked Future - http://www.xenosystems.net/zacked-future/ [JUNE 29, 2014]		|
+Zack-Pop - http://www.xenosystems.net/zack-pop/ [OCTOBER 11, 2014]			|
+Zack-Pop II - http://www.xenosystems.net/zack-pop-ii/ [APRIL 3, 2015]			|
+Zombie Sim - http://www.xenosystems.net/zombie-sim/ [MARCH 3, 2015]			|
+Ebola Ultimate - http://www.xenosystems.net/ebola-ultimate/ [OCTOBER 13, 2014]		|
+Brain Eater - http://www.xenosystems.net/brain-eater/ [MAY 9, 2015]			|
+Shattered - http://www.xenosystems.net/shattered/ [JUNE 22, 2015]			|
+Heading back... - http://www.xenosystems.net/heading-back/ [JULY 10, 2015]		|
+Halloween XS 1- http://www.xenosystems.net/halloween-xs-1/ [OCTOBER 31, 2014]	| Clowns
+Economic Horror - http://www.xenosystems.net/economic-horror/ [OCTOBER 17, 2015]
+Patricia - http://www.xenosystems.net/patricia/ [OCTOBER 24, 2015]
+Quote note (#203) - http://www.xenosystems.net/quote-note-203/ [NOVEMBER 26, 2015]
+
+GNON THEOLOGY
+The Cult of Gnon - http://www.xenosystems.net/the-cult-of-gnon/[May 30, 2013] 
+Gnon-Theology and Time - http://www.xenosystems.net/gnon-theology-and-time/ [June 16, 2013]
+Gnon Obvious - http://www.xenosystems.net/gnon-obvious/ [JUNE 19, 2013]
+Simulated Gnon-Theology - http://www.xenosystems.net/simulated-gnon-theology/ [July 23, 2013]
+Gnon and OOon - http://www.xenosystems.net/gnon-and-ooon/ [SEPTEMBER 13, 2013]
+On Gnon - http://www.xenosystems.net/on-gnon/ [JULY 13, 2014]
+War in Heaven - http://www.xenosystems.net/war-in-heaven/ [JULY 30, 2014]
+War in Heaven II - http://www.xenosystems.net/war-in-heaven-ii/ [AUGUST 18, 2015]
+The Harshness - http://www.xenosystems.net/the-harshness/ [SEPTEMBER 1, 2015]
+
+OCCULT
+Satan's Error - http://www.xenosystems.net/satans-error/ [MAY 11, 2013]
+Miltonic Regression - http://www.xenosystems.net/miltonic-regression/ [MAY 13, 2013]
+Zero-Centric History - http://www.xenosystems.net/zero-centric-history/ [MAY 7, 2013]
+Diversionary History - http://www.xenosystems.net/diversionary-history/ [MAY 27, 2013]
+Xenotation (#1) - http://www.xenosystems.net/xenotation-1/ [JUNE 4, 2013]
+Yule Quiz (#1) - http://www.xenosystems.net/yule-quiz/ [DECEMBER 27, 2013] 
+Yule Quiz (#2) - http://www.xenosystems.net/yule-quiz-2/ [DECEMBER 27, 201]
+Cloven - http://www.xenosystems.net/cloven/ [JANUARY 8, 2014]
+Alphanomics - http://www.xenosystems.net/alphanomics/ [JUNE 17, 2014]
+Crabalism - http://www.xenosystems.net/crabalism/ [JULY 11, 2014]
+Open Secret - http://www.xenosystems.net/open-secret/ [SEPTEMBER 27, 2014]
+On Difficulty - http://www.xenosystems.net/on-difficulty [October 4, 2014]
+Occult Xenosystems - http://www.xenosystems.net/occult-xenosystems/ [OCTOBER 11, 2014]
+Cosmic Order - http://www.xenosystems.net/cosmic-order/ [NOVEMBER 18, 2014]
+Quote note (#135) - http://www.xenosystems.net/quote-note-135/ [DECEMBER 1, 2014]
+MMXV - http://www.xenosystems.net/mmxv/ [DECEMBER 30, 2014]
+Chaos Patch (#43) - http://www.xenosystems.net/chaos-patch-43/ [JANUARY 4, 2015]
+What's in a Name? - http://www.xenosystems.net/whats-in-a-name/ [FEBRUARY 21, 2015]
+Pi Day - http://www.xenosystems.net/pi-day/ [MARCH 13, 2015]
+The Iron Law of Six - http://www.xenosystems.net/the-iron-law-of-six/ [MARCH 31, 2015]
+Abstract Thought-Crime - http://www.xenosystems.net/abstract-thought-crime/ [APRIL 7, 2015]
+Transistors of the Gods - http://www.xenosystems.net/transistors-of-the-gods/ [MAY 11, 2016]
+Dark Energy - http://www.xenosystems.net/dark-energy/ [SEPTEMBER 26, 2016]
+
+HYPERSTITION
+Scrap Note (#9) - http://www.xenosystems.net/scrap-note-9/ [APRIL 10, 2014]
+Gyres - http://www.xenosystems.net/gyres/ [JUNE 18, 2014]
+Ebola-Chan - http://www.xenosystems.net/ebola-chan/ [SEPTEMBER 20, 2014]
+Ontological Reflexion - http://www.uf-blog.net/ontological-reflexion/ [OCTOBER 15, 2014]
+Kek - http://www.xenosystems.net/kek/ [APRIL 19, 2016]
+The Frog Chorus - http://www.xenosystems.net/the-frog-chorus/ [SEPTEMBER 21, 2016]
+Moloch vs Kek - http://www.xenosystems.net/moloch-vs-kek/ [NOVEMBER 4, 2016]
+
+FICTION
+Duszl - http://www.xenosystems.net/duzsl-fiction/ [APRIL 18, 2013]
+Halloween XS 2 - http://www.xenosystems.net/halloween-xs-2/ [OCTOBER 31, 2014]
+Deadlines (Part 1) -  http://www.xenosystems.net/deadlines-part-1/ [NOVEMBER 28, 2014]
+Deadlines (Part 2) - http://www.xenosystems.net/deadlines-part-2/ [APRIL 10, 2015]
+Vauung - http://www.xenosystems.net/vauung/ [NOVEMBER 19, 2015]
+Bloody Mary - http://www.xenosystems.net/bloody-mary/ [OCTOBER 31, 2019]
+Patience - http://www.xenosystems.net/patience/ [NOVEMBER 11, 2019]
+Mermaids - http://www.xenosystems.net/mermaids/ [NOVEMBER 13, 2019]
+Wallypede Girl - http://www.xenosystems.net/wallypede-girl/ [NOVEMBER 22, 2019]
+Things Left Mostly Unsaid (00) - http://www.xenosystems.net/things-left-mostly-unsaid-00/ [JANUARY 28, 2020]
+Things Left Mostly Unsaid (01) - http://www.xenosystems.net/things-left-mostly-unsaid-01/ [FEBRUARY 1, 2020]
+Things Left Mostly Unsaid (02) - http://www.xenosystems.net/things-left-mostly-unsaid-02/ [FEBRUARY 2, 2020]
+Things Left Mostly Unsaid (03) - http://www.xenosystems.net/things-left-mostly-unsaid-03/ [FEBRUARY 3, 2020]
+Things Left Mostly Unsaid (04) - http://www.xenosystems.net/things-left-mostly-unsaid-04/ [FEBRUARY 4, 2020]
+Things Left Mostly Unsaid (05) - http://www.xenosystems.net/things-left-mostly-unsaid-05/ [FEBRUARY 5, 2020]
+Things Left Mostly Unsaid (06) - http://www.xenosystems.net/things-left-mostly-unsaid-06/ [FEBRUARY 6, 2020]
