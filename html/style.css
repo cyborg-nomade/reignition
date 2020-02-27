@@ -53,21 +53,21 @@ THE SOFTWARE.
 
 @page {
   margin: 27mm 16mm 27mm 16mm;
-  size: 7in 9.25in;
+  size: 9in 11.25in;
 }
 
 /* define default page and names pages: cover, blank, frontmatter */
 
 @page :left {
   @top-left {
-    font: 11pt 'Gill Sans', 'Lato', serif;
-    content: 'Cascading Style Sheets';
+    font: 11pt "Gill Sans", "Lato", serif;
+    content: "Reignition";
     vertical-align: bottom;
     padding-bottom: 2em;
   }
 
   @bottom-left {
-    font: 11pt 'Gill Sans', 'Lato', serif;
+    font: 11pt "Gill Sans", "Lato", serif;
     content: counter(page);
     padding-top: 2em;
     vertical-align: top;
@@ -76,14 +76,14 @@ THE SOFTWARE.
 
 @page :right {
   @top-right {
-    font: 11pt 'Gill Sans', 'Lato', serif;
+    font: 11pt "Gill Sans", "Lato", serif;
     content: string(header, first);
     vertical-align: bottom;
     padding-bottom: 2em;
   }
 
   @bottom-right {
-    font: 11pt 'Gill Sans', 'Lato', serif;
+    font: 11pt "Gill Sans", "Lato", serif;
     content: counter(page);
     text-align: right;
     vertical-align: top;
@@ -93,14 +93,14 @@ THE SOFTWARE.
 
 @page frontmatter :left {
   @top-left {
-    font: 11pt 'Gill Sans', 'Lato', serif;
+    font: 11pt "Gill Sans", "Lato", serif;
     content: string(title);
     vertical-align: bottom;
     padding-bottom: 2em;
   }
 
   @bottom-left {
-    font: 11pt 'Gill Sans', 'Lato', serif;
+    font: 11pt "Gill Sans", "Lato", serif;
     content: counter(page, lower-roman);
     padding-top: 2em;
     vertical-align: top;
@@ -113,14 +113,14 @@ THE SOFTWARE.
 
 @page frontmatter :right {
   @top-right {
-    font: 11pt 'Gill Sans', 'Lato', serif;
+    font: 11pt "Gill Sans", "Lato", serif;
     content: string(header, first);
     vertical-align: bottom;
     padding-bottom: 2em;
   }
 
   @bottom-right {
-    font: 11pt 'Gill Sans', 'Lato', serif;
+    font: 11pt "Gill Sans", "Lato", serif;
     content: counter(page, lower-roman);
     text-align: right;
     vertical-align: top;
@@ -150,7 +150,7 @@ THE SOFTWARE.
 
 html {
   margin: 0;
-  font: 14pt/1.5 'Gill Sans', 'Lato', sans-serif;
+  font: 14pt/1.5 "Gill Sans", "Lato", sans-serif;
 }
 
 body {
@@ -163,7 +163,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Gill Sans', 'Lato', sans-serif;
+  font-family: "Gill Sans", "Lato", sans-serif;
   margin: 2em 0 0.5em 0;
   page-break-after: avoid;
 }
@@ -173,6 +173,7 @@ h1 {
   margin: 0;
   font-size: 2.4em;
   font-weight: 900;
+  string-set: header content();
 }
 
 h2 {
@@ -199,11 +200,11 @@ small {
 /* style settings specific to this book */
 
 q::before {
-  content: '\201C';
+  content: "\201C";
 }
 
 q::after {
-  content: '\201D';
+  content: "\201D";
 }
 
 p {
@@ -235,16 +236,16 @@ a {
 /* cross-references */
 
 a.pageref::after {
-  content: ' on page ' target-counter(attr(href), page);
+  content: " on page " target-counter(attr(href), page);
 }
 a.chapref::before {
-  content: ' Chapter ' target-counter(attr(href), chapter) ', ';
+  content: " Chapter " target-counter(attr(href), chapter) ", ";
 }
 a.figref {
-  content: ' Figure ' target-counter(attr(href), figure);
+  content: " Figure " target-counter(attr(href), figure);
 }
 a.tableref {
-  content: ' Table ' target-counter(attr(href), figure);
+  content: " Table " target-counter(attr(href), figure);
 }
 
 /* footnotes */
@@ -338,7 +339,7 @@ section.frontcover h1 {
   padding: 0;
   left: 2cm;
   top: 3.5cm;
-  color: white;
+  color: black;
   font-size: 44pt;
   font-weight: normal;
 }
@@ -349,7 +350,6 @@ section.frontcover h2 {
   right: 0;
   top: 5cm;
   color: black;
-  background: white;
   font-size: 16pt;
   font-weight: normal;
   padding: 0.2em 5em 0.2em 1em;
@@ -361,7 +361,7 @@ section.frontcover h3 {
   padding: 0;
   left: 2cm;
   top: 6.5cm;
-  color: white;
+  color: black;
   font-size: 24pt;
   font-weight: normal;
 }
@@ -418,11 +418,11 @@ ul.toc > li {
   margin-bottom: 0.5em;
 }
 ul.toc a::after {
-  content: leader('.') target-counter(attr(href), page);
+  content: leader(".") target-counter(attr(href), page);
   font-style: normal;
 }
 ul.toc > li.frontmatter a::after {
-  content: leader('.') target-counter(attr(href), page, lower-roman);
+  content: leader(".") target-counter(attr(href), page, lower-roman);
   font-style: normal;
 }
 /* ul.toc > li.endmatter a::after {
@@ -430,7 +430,7 @@ ul.toc > li.frontmatter a::after {
   font-style: normal;
 } */
 ul.toc > li.block::before {
-  content: 'Block ' counter(toc-block, decimal);
+  content: normal;
   display: block;
   margin: 1em 0 0.1em -2.5cm;
   font-weight: normal;
@@ -438,7 +438,7 @@ ul.toc > li.block::before {
   page-break-after: avoid;
 }
 ul.toc li.section::before {
-  content: 'Section ' counter(toc-section, decimal);
+  content: normal;
   display: block;
   margin: 1em 0 0.1em -2.5cm;
   font-weight: normal;
@@ -446,7 +446,7 @@ ul.toc li.section::before {
   page-break-after: avoid;
 }
 ul.toc li.sequence::before {
-  content: 'Sequence ' counter(toc-sequence, decimal);
+  content: normal;
   display: block;
   margin: 1em 0 0.1em -2.5cm;
   font-weight: normal;
@@ -454,7 +454,7 @@ ul.toc li.sequence::before {
   page-break-after: avoid;
 }
 ul.toc li.chapter::before {
-  content: 'Chapter ' counter(toc-chapter, decimal);
+  content: normal;
   display: block;
   margin: 1em 0 0.1em -2.5cm;
   font-weight: normal;
@@ -525,7 +525,7 @@ h1 {
 @media screen, handheld {
   html {
     margin: 3em;
-    font: 16px 'Gill Sans', 'Lato', sans-serif;
+    font: 16px "Gill Sans", "Lato", sans-serif;
   }
   h1 {
     margin-bottom: 0.5em;
