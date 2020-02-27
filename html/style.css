@@ -53,7 +53,7 @@ THE SOFTWARE.
 
 @page {
   margin: 27mm 16mm 27mm 16mm;
-  size: 9in 11.25in;
+  size: 7in 9.25in;
 }
 
 /* define default page and names pages: cover, blank, frontmatter */
@@ -154,7 +154,7 @@ html {
 }
 
 body {
-  margin: 0 0 0 28%;
+  margin: 0 0 0 0;
 }
 
 h1,
