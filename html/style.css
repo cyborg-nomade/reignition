@@ -22,7 +22,6 @@ THE SOFTWARE.
 
 */
 
-
 /*
    A book consists of different types of sections. We propose to use
    DIV elements with these class names:
@@ -55,27 +54,20 @@ THE SOFTWARE.
 @page {
   margin: 27mm 16mm 27mm 16mm;
   size: 7in 9.25in;
-
-  @footnotes {
-    border-top: thin solid black;
-    padding-top: 0.3em;
-    margin-top: 0.6em;
-    margin-left: 30%;
-  }
 }
 
 /* define default page and names pages: cover, blank, frontmatter */
 
 @page :left {
   @top-left {
-    font: 11pt "Gill Sans", "Lato", serif;
-    content: "Cascading Style Sheets";
+    font: 11pt 'Gill Sans', 'Lato', serif;
+    content: 'Cascading Style Sheets';
     vertical-align: bottom;
     padding-bottom: 2em;
   }
 
   @bottom-left {
-    font: 11pt "Gill Sans", "Lato", serif;
+    font: 11pt 'Gill Sans', 'Lato', serif;
     content: counter(page);
     padding-top: 2em;
     vertical-align: top;
@@ -84,14 +76,14 @@ THE SOFTWARE.
 
 @page :right {
   @top-right {
-    font: 11pt "Gill Sans", "Lato", serif;
-    content: string(header, first); 
+    font: 11pt 'Gill Sans', 'Lato', serif;
+    content: string(header, first);
     vertical-align: bottom;
-    padding-bottom: 2em; 
+    padding-bottom: 2em;
   }
 
   @bottom-right {
-    font: 11pt "Gill Sans", "Lato", serif;
+    font: 11pt 'Gill Sans', 'Lato', serif;
     content: counter(page);
     text-align: right;
     vertical-align: top;
@@ -101,32 +93,34 @@ THE SOFTWARE.
 
 @page frontmatter :left {
   @top-left {
-    font: 11pt "Gill Sans", "Lato", serif;
+    font: 11pt 'Gill Sans', 'Lato', serif;
     content: string(title);
     vertical-align: bottom;
     padding-bottom: 2em;
   }
 
   @bottom-left {
-    font: 11pt "Gill Sans", "Lato", serif;
+    font: 11pt 'Gill Sans', 'Lato', serif;
     content: counter(page, lower-roman);
     padding-top: 2em;
     vertical-align: top;
   }
 }
 
-@page cover { margin: 0; }
+@page cover {
+  margin: 0;
+}
 
 @page frontmatter :right {
   @top-right {
-    font: 11pt "Gill Sans", "Lato", serif;
-    content: string(header, first); 
+    font: 11pt 'Gill Sans', 'Lato', serif;
+    content: string(header, first);
     vertical-align: bottom;
-    padding-bottom: 2em; 
+    padding-bottom: 2em;
   }
 
   @bottom-right {
-    font: 11pt "Gill Sans", "Lato", serif;
+    font: 11pt 'Gill Sans', 'Lato', serif;
     content: counter(page, lower-roman);
     text-align: right;
     vertical-align: top;
@@ -135,64 +129,94 @@ THE SOFTWARE.
 }
 
 @page blank :left {
-  @top-left { content: normal }
-  @bottom-left { content: normal }
+  @top-left {
+    content: normal;
+  }
+  @bottom-left {
+    content: normal;
+  }
 }
 
 @page blank :right {
-  @top-right { content: normal }
-  @bottom-right { content: normal }
+  @top-right {
+    content: normal;
+  }
+  @bottom-right {
+    content: normal;
+  }
 }
 
 /* settings on generic elements */
 
-html { 
+html {
   margin: 0;
-  font: 10pt/1.26 "Gill Sans", "Lato", sans-serif;
+  font: 14pt/1.5 'Gill Sans', 'Lato', sans-serif;
 }
 
-body { 
+body {
   margin: 0 0 0 28%;
 }
 
-h1, h2, h3, h4, h5, h6 { 
-  font-family: "Gill Sans", "Lato", sans-serif;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Gill Sans', 'Lato', sans-serif;
   margin: 2em 0 0.5em 0;
   page-break-after: avoid;
-} 
+}
 
-h1 { 
+h1 {
   padding: 2em 0 2em 0;
   margin: 0;
   font-size: 2.4em;
   font-weight: 900;
 }
 
-h2 { 
-  font-size: 1.2em;
+h2 {
+  font-size: 2em;
   text-transform: uppercase;
   font-weight: bold;
 }
 
-h3 { 
-  font-size: 1em;
+h3 {
+  font-size: 1.6em;
   font-weight: bold;
 }
 
+h4 {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+small {
+  display: inline-block;
+  margin: 1em 0 1em 0;
+}
 
 /* style settings specific to this book */
 
 q::before {
-  content: "\201C";
+  content: '\201C';
 }
 
 q::after {
-  content: "\201D";
+  content: '\201D';
 }
 
-p { margin: 0 }
-p + p { text-indent: 1.3em }
-p.sidenote + p, p.caption, p.art { text-indent: 0 }
+p {
+  margin: 0;
+}
+p + p {
+  text-indent: 1.3em;
+}
+p.sidenote + p,
+p.caption,
+p.art {
+  text-indent: 0;
+}
 
 p.author {
   margin-top: 2em;
@@ -200,23 +224,35 @@ p.author {
   text-align: right;
 }
 
-pre {  margin: 1em 1.3em; }
+pre {
+  margin: 1em 1.3em;
+}
 
-a { text-decoration: none; color: black }
+a {
+  color: black;
+}
 
 /* cross-references */
 
-a.pageref::after { content: " on page " target-counter(attr(href), page); }
-a.chapref::before { content: " Chapter " target-counter(attr(href), chapter) ", "; }
-a.figref { content: " Figure " target-counter(attr(href), figure); }
-a.tableref { content: " Table " target-counter(attr(href), figure); }
+a.pageref::after {
+  content: ' on page ' target-counter(attr(href), page);
+}
+a.chapref::before {
+  content: ' Chapter ' target-counter(attr(href), chapter) ', ';
+}
+a.figref {
+  content: ' Figure ' target-counter(attr(href), figure);
+}
+a.tableref {
+  content: ' Table ' target-counter(attr(href), figure);
+}
 
 /* footnotes */
 
 .footnote {
-  display: none;                   /* default rule */
+  display: none; /* default rule */
 
-  display: prince-footnote;        /* prince-specific rules */
+  display: prince-footnote; /* prince-specific rules */
   position: footnote;
   footnote-style-position: inside;
 
@@ -237,39 +273,71 @@ a.tableref { content: " Table " target-counter(attr(href), figure); }
   padding-right: 0.4em;
 }
 
-
 /* which section uses which named page */
 
-section.halftitlepage, section.titlepage, section.imprint, section.dedication { page: blank }
-section.foreword, section.toc, section.preface { page: frontmatter }
-
+section.halftitlepage,
+section.titlepage,
+section.imprint,
+section.dedication {
+  page: blank;
+}
+section.foreword,
+section.toc,
+section.preface {
+  page: frontmatter;
+}
 
 /* page breaks */
 
-section.frontcover, section.halftitlepage, section.titlepage { page-break-before: right }
-section.imprint { page-break-before: always }
-section.dedication, section.foreword, section.toc, section.preface, section.chapter, section.reference, 
-section.appendix, section.bibliography, section.glossary, section.index, section.colophon { 
-  page-break-before: always 
+section.frontcover,
+section.halftitlepage,
+section.titlepage {
+  page-break-before: right;
 }
-section.backcover { page-break-before: left }
+section.imprint {
+  page-break-before: always;
+}
+section.dedication,
+section.foreword,
+section.toc,
+section.preface,
+section.block,
+section.section,
+section.sequence,
+section.chapter,
+section.reference,
+section.appendix,
+section.bibliography,
+section.glossary,
+section.index,
+section.colophon {
+  page-break-before: always;
+}
+section.backcover {
+  page-break-before: left;
+}
 
 /* the front cover; this code is probably not very reusable by other books */
 
-section.frontcover { page: cover; }
+section.frontcover {
+  page: cover;
+}
 
 section.frontcover img {
   position: absolute;
   padding: 0;
-  width: 7in; height: 9.25in;
-  left: 0; top: 0;
+  width: 7in;
+  height: 9.25in;
+  left: 0;
+  top: 0;
   z-index: -1;
 }
 
 section.frontcover h1 {
   position: absolute;
   padding: 0;
-  left: 2cm; top: 3.5cm;
+  left: 2cm;
+  top: 3.5cm;
   color: white;
   font-size: 44pt;
   font-weight: normal;
@@ -278,7 +346,8 @@ section.frontcover h1 {
 section.frontcover h2 {
   position: absolute;
   padding: 0;
-  right: 0; top: 5cm;
+  right: 0;
+  top: 5cm;
   color: black;
   background: white;
   font-size: 16pt;
@@ -290,7 +359,8 @@ section.frontcover h2 {
 section.frontcover h3 {
   position: absolute;
   padding: 0;
-  left: 2cm; top: 6.5cm;
+  left: 2cm;
+  top: 6.5cm;
   color: white;
   font-size: 24pt;
   font-weight: normal;
@@ -299,37 +369,51 @@ section.frontcover h3 {
 section.frontcover p {
   position: absolute;
   padding: 0;
-  left: 2cm; bottom: 1.5cm;
+  left: 2cm;
+  bottom: 1.5cm;
   font-size: 24pt;
   color: black;
   font-weight: bold;
   text-transform: uppercase;
 }
 
-
 /* titlepage, halftitlepage */
 
-section.titlepage h1, section.halftitlepage h1 { margin-bottom: 2em; }
-section.titlepage h2, section.halftitlepage h2 { font-size: 1section.2em; margin-bottom: 3em; }
-section.titlepage h3, section.halftitlepage h3 { font-size: 1em; margin-bottom: 3em; }
-section.titlepage p, section.halftitlepage p { 
+section.titlepage h1,
+section.halftitlepage h1 {
+  margin-bottom: 2em;
+}
+section.titlepage h2,
+section.halftitlepage h2 {
+  font-size: 1section.2em;
+  margin-bottom: 3em;
+}
+section.titlepage h3,
+section.halftitlepage h3 {
+  font-size: 1em;
+  margin-bottom: 3em;
+}
+section.titlepage p,
+section.halftitlepage p {
   font-size: 1.4em;
   font-weight: bold;
-  margin: 0; padding: 0;
+  margin: 0;
+  padding: 0;
 }
-
 
 /* TOC */
 
-ul.toc, ul.toc ul { 
+ul.toc,
+ul.toc ul {
   list-style-type: none;
-  margin: 0; padding: 0;
+  margin: 0;
+  padding: 0;
 }
 ul.toc ul {
   margin-left: 1em;
   font-weight: normal;
 }
-ul.toc > li { 
+ul.toc > li {
   font-weight: bold;
   margin-bottom: 0.5em;
 }
@@ -341,12 +425,36 @@ ul.toc > li.frontmatter a::after {
   content: leader('.') target-counter(attr(href), page, lower-roman);
   font-style: normal;
 }
-ul.toc > li.endmatter a::after {
+/* ul.toc > li.endmatter a::after {
   content: leader('.') target-counter(attr(href), page);
   font-style: normal;
+} */
+ul.toc > li.block::before {
+  content: 'Block ' counter(toc-block, decimal);
+  display: block;
+  margin: 1em 0 0.1em -2.5cm;
+  font-weight: normal;
+  counter-increment: toc-block;
+  page-break-after: avoid;
 }
-ul.toc > li.chapter::before {
-  content: "Chapter " counter(toc-chapter, decimal);
+ul.toc li.section::before {
+  content: 'Section ' counter(toc-section, decimal);
+  display: block;
+  margin: 1em 0 0.1em -2.5cm;
+  font-weight: normal;
+  counter-increment: toc-section;
+  page-break-after: avoid;
+}
+ul.toc li.sequence::before {
+  content: 'Sequence ' counter(toc-sequence, decimal);
+  display: block;
+  margin: 1em 0 0.1em -2.5cm;
+  font-weight: normal;
+  counter-increment: toc-sequence;
+  page-break-after: avoid;
+}
+ul.toc li.chapter::before {
+  content: 'Chapter ' counter(toc-chapter, decimal);
   display: block;
   margin: 1em 0 0.1em -2.5cm;
   font-weight: normal;
@@ -354,50 +462,82 @@ ul.toc > li.chapter::before {
   page-break-after: avoid;
 }
 
-/* chapter numbers */
+/* block numbers */
 
-.chapter { counter-increment: chapter; }
+/* .block {
+  counter-increment: chapter;
+}
 
 h1::before {
   white-space: pre;
   margin-left: -2.5cm;
   font-size: 50%;
-  content: "\B0  \B0  \B0  \B0  \B0 \A";  /* ornaments */
+  content: '\B0  \B0  \B0  \B0  \B0 \A'; /* ornaments
 }
 
-.chapter h1::before { content: "Chapter " counter(chapter) " \A"; }
-
-.frontcover h1::before, .titlepage h1::before, .halftitlepage h1::before {
-  content: normal;                  /* that is, none */
+.block h1::before {
+  content: 'Chapter ' counter(block) ' \A';
 }
 
-h1 { string-set: header content();}
-.chapter h1 { string-set: header "Chapter " counter(chapter) ": " content(); }
-
-/* index */
-
-ul.index { 
-  list-style-type: none;
-  margin: 0; padding: 0;
-  column-count: 2;
-  column-gap: 1em;
+.frontcover h1::before,
+.titlepage h1::before,
+.halftitlepage h1::before {
+  content: normal; /* that is, none 
 }
 
-ul.index a::after { content: ", " target-counter(attr(href), page); }
+h1 {
+  string-set: header content();
+}
+.block h1 {
+  string-set: header 'Chapter ' counter(block) ': ' content();
+} */
 
-code.element, code.attribute {
-  text-transform: uppercase;
-  font-weight: bold;
-  font-size: 80%;
+/* section numbers */
+
+/* .section {
+  counter-increment: section;
 }
-code.property { font-weight: bold }
-code, code.css, code.value, code.declaration {
-  font: 90% "Lucida Console", "Lucida Sans Typewriter", monospace;
+
+h1::before {
+  white-space: pre;
+  margin-left: -2.5cm;
+  font-size: 50%;
+  content: '\B0  \B0  \B0  \B0  \B0 \A'; /* ornaments 
 }
+
+.section h1::before {
+  content: 'Chapter ' counter(chapter) ' \A';
+}
+
+.frontcover h1::before,
+.titlepage h1::before,
+.halftitlepage h1::before {
+  content: normal; /* that is, none 
+}
+
+h1 {
+  string-set: header content();
+}
+.chapter h1 {
+  string-set: header 'Chapter ' counter(chapter) ': ' content();
+} */
 
 @media screen, handheld {
-  html { margin: 3em; font: 16px "Gill Sans", "Lato", sans-serif; }
-  h1 { margin-bottom: 0.5em }
-  .frontcover, .halftitlepage, .titlepage, .imprint, 
-  .dedication, .foreword, .toc, .index { display: none }
+  html {
+    margin: 3em;
+    font: 16px 'Gill Sans', 'Lato', sans-serif;
+  }
+  h1 {
+    margin-bottom: 0.5em;
+  }
+  .frontcover,
+  .halftitlepage,
+  .titlepage,
+  .imprint,
+  .dedication,
+  .foreword,
+  .toc,
+  .index {
+    display: none;
+  }
 }
