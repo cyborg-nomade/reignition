@@ -132,6 +132,7 @@ THE SOFTWARE.
   @top-left {
     content: normal;
   }
+
   @bottom-left {
     content: normal;
   }
@@ -141,6 +142,7 @@ THE SOFTWARE.
   @top-right {
     content: normal;
   }
+
   @bottom-right {
     content: normal;
   }
@@ -210,10 +212,12 @@ q::after {
 p {
   margin: 0;
 }
-p + p {
+
+p+p {
   text-indent: 1.3em;
 }
-p.sidenote + p,
+
+p.sidenote+p,
 p.caption,
 p.art {
   text-indent: 0;
@@ -236,24 +240,29 @@ a {
 /* cross-references */
 
 a.pageref::after {
-  content: " on page " target-counter(attr(href), page);
+  content: " on page "target-counter(attr(href), page);
 }
+
 a.chapref::before {
-  content: " Chapter " target-counter(attr(href), chapter) ", ";
+  content: " Chapter "target-counter(attr(href), chapter) ", ";
 }
+
 a.figref {
-  content: " Figure " target-counter(attr(href), figure);
+  content: " Figure "target-counter(attr(href), figure);
 }
+
 a.tableref {
-  content: " Table " target-counter(attr(href), figure);
+  content: " Table "target-counter(attr(href), figure);
 }
 
 /* footnotes */
 
 .footnote {
-  display: none; /* default rule */
+  display: none;
+  /* default rule */
 
-  display: prince-footnote; /* prince-specific rules */
+  display: prince-footnote;
+  /* prince-specific rules */
   position: footnote;
   footnote-style-position: inside;
 
@@ -282,6 +291,7 @@ section.imprint,
 section.dedication {
   page: blank;
 }
+
 section.foreword,
 section.toc,
 section.preface {
@@ -295,9 +305,11 @@ section.halftitlepage,
 section.titlepage {
   page-break-before: right;
 }
+
 section.imprint {
   page-break-before: always;
 }
+
 section.dedication,
 section.foreword,
 section.toc,
@@ -306,6 +318,7 @@ section.block,
 section.section,
 section.sequence,
 section.chapter,
+section.post,
 section.reference,
 section.appendix,
 section.bibliography,
@@ -314,6 +327,7 @@ section.index,
 section.colophon {
   page-break-before: always;
 }
+
 section.backcover {
   page-break-before: left;
 }
@@ -383,16 +397,19 @@ section.titlepage h1,
 section.halftitlepage h1 {
   margin-bottom: 2em;
 }
+
 section.titlepage h2,
 section.halftitlepage h2 {
   font-size: 1section.2em;
   margin-bottom: 3em;
 }
+
 section.titlepage h3,
 section.halftitlepage h3 {
   font-size: 1em;
   margin-bottom: 3em;
 }
+
 section.titlepage p,
 section.halftitlepage p {
   font-size: 1.4em;
@@ -409,27 +426,32 @@ ul.toc ul {
   margin: 0;
   padding: 0;
 }
+
 ul.toc ul {
   margin-left: 1em;
   font-weight: normal;
 }
-ul.toc > li {
+
+ul.toc>li {
   font-weight: bold;
   margin-bottom: 0.5em;
 }
+
 ul.toc a::after {
   content: leader(".") target-counter(attr(href), page);
   font-style: normal;
 }
-ul.toc > li.frontmatter a::after {
+
+ul.toc>li.frontmatter a::after {
   content: leader(".") target-counter(attr(href), page, lower-roman);
   font-style: normal;
 }
+
 /* ul.toc > li.endmatter a::after {
   content: leader('.') target-counter(attr(href), page);
   font-style: normal;
 } */
-ul.toc > li.block::before {
+ul.toc>li.block::before {
   content: normal;
   display: block;
   margin: 1em 0 0.1em -2.5cm;
@@ -437,6 +459,7 @@ ul.toc > li.block::before {
   counter-increment: toc-block;
   page-break-after: avoid;
 }
+
 ul.toc li.section::before {
   content: normal;
   display: block;
@@ -445,6 +468,7 @@ ul.toc li.section::before {
   counter-increment: toc-section;
   page-break-after: avoid;
 }
+
 ul.toc li.sequence::before {
   content: normal;
   display: block;
@@ -453,6 +477,7 @@ ul.toc li.sequence::before {
   counter-increment: toc-sequence;
   page-break-after: avoid;
 }
+
 ul.toc li.chapter::before {
   content: normal;
   display: block;
@@ -522,14 +547,17 @@ h1 {
   string-set: header 'Chapter ' counter(chapter) ': ' content();
 } */
 
-@media screen, handheld {
+@media screen,
+handheld {
   html {
     margin: 3em;
     font: 16px "Gill Sans", "Lato", sans-serif;
   }
+
   h1 {
     margin-bottom: 0.5em;
   }
+
   .frontcover,
   .halftitlepage,
   .titlepage,
