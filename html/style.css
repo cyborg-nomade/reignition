@@ -318,7 +318,7 @@ section.block,
 section.section,
 section.sequence,
 section.chapter,
-section.post,
+/* section.post, check this out afterwards */
 section.reference,
 section.appendix,
 section.bibliography,
