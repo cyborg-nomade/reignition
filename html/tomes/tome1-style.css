@@ -195,6 +195,11 @@ h4 {
   font-weight: bold;
 }
 
+h4 {
+  font-size: 1em;
+  font-weight: bold;
+}
+
 small {
   display: inline-block;
   margin: 1em 0 1em 0;
@@ -349,6 +354,7 @@ section.frontcover img {
   z-index: -1;
 }
 
+/* TO-DO: Reduce top to bring it up a little  */
 section.frontcover h1 {
   position: absolute;
   padding: 0;
@@ -359,6 +365,7 @@ section.frontcover h1 {
   font-weight: normal;
 }
 
+/* TO-DO: Align with h1 by removing some left-padding */
 section.frontcover h2 {
   position: absolute;
   padding: 0;
@@ -371,6 +378,7 @@ section.frontcover h2 {
   letter-spacing: 0.15em;
 }
 
+/* TO-DO: smaller font size, all the way to the bottom */
 section.frontcover h3 {
   position: absolute;
   padding: 0;
@@ -399,18 +407,21 @@ section.halftitlepage h1 {
   margin-bottom: 2em;
 }
 
+/* bring it close to h1, make it similar to frontcover */
 section.titlepage h2,
 section.halftitlepage h2 {
   font-size: 1section.2em;
   margin-bottom: 3em;
 }
 
+/* a little larger font size, bring it towards the center of the page */
 section.titlepage h3,
 section.halftitlepage h3 {
   font-size: 1em;
   margin-bottom: 3em;
 }
 
+/* smaller font, do away with the new line, no bold */
 section.titlepage p,
 section.halftitlepage p {
   font-size: 1.4em;
@@ -452,6 +463,7 @@ ul.toc>li.frontmatter a::after {
   content: leader('.') target-counter(attr(href), page);
   font-style: normal;
 } */
+
 ul.toc>li.block::before {
   content: normal;
   display: block;
