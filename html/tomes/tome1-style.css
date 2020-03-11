@@ -241,6 +241,7 @@ pre {
 
 a {
   color: black;
+  text-decoration: dashed;
 }
 
 /* cross-references */
