@@ -58,6 +58,7 @@ THE SOFTWARE.
 
 /* define default page and names pages: cover, blank, frontmatter */
 
+/* TODO: check out odd pages top left titles */
 @page :left {
   @top-left {
     font: 11pt "Gill Sans", "Lato", serif;
@@ -195,7 +196,7 @@ h4 {
   font-weight: bold;
 }
 
-h4 {
+h5 {
   font-size: 1em;
   font-weight: bold;
 }
