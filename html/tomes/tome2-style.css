@@ -356,7 +356,16 @@ section.frontcover img {
   z-index: -1;
 }
 
-section.frontcover h1,
+section.frontcover h1 {
+  position: absolute;
+  padding: 0;
+  left: 0.5cm;
+  top: 0.5cm;
+  color: lightgray;
+  font-size: 36pt;
+  font-weight: normal;
+}
+
 section.titlepage h1,
 section.halftitlepage h1 {
   position: absolute;
@@ -368,7 +377,18 @@ section.halftitlepage h1 {
   font-weight: normal;
 }
 
-section.frontcover h2,
+section.frontcover h2 {
+  position: absolute;
+  padding: 0;
+  left: 0.5cm;
+  top: 1.5cm;
+  color: lightgray;
+  font-size: 8pt;
+  font-weight: normal;
+  padding: 0.2em 5em 0.2em 1em;
+  letter-spacing: 0.15em;
+}
+
 section.titlepage h2,
 section.halftitlepage h2 {
   position: absolute;
@@ -382,7 +402,13 @@ section.halftitlepage h2 {
   letter-spacing: 0.15em;
 }
 
-section.frontcover h3,
+section.frontcover h3 {
+  position: absolute;
+  padding: 0;
+  color: lightgray;
+  font-weight: bold;
+}
+
 section.titlepage h3,
 section.halftitlepage h3 {
   position: absolute;
@@ -392,14 +418,14 @@ section.halftitlepage h3 {
 }
 
 section.frontcover h3.first {
-  left: 0.5cm;
-  bottom: 2.75cm;
+  left: 1.5cm;
+  bottom: 1.15cm;
   font-size: 12pt;
 }
 
 section.frontcover h3.second {
-  left: 0.5cm;
-  bottom: 2cm;
+  left: 1.5cm;
+  bottom: 0.4cm;
   font-size: 11pt;
 }
 
@@ -418,25 +444,6 @@ section.halftitlepage p {
 
 /* titlepage, halftitlepage */
 
-/* section.titlepage h1,
-section.halftitlepage h1 {
-  margin-bottom: 2em;
-} */
-
-/* bring it close to h1, make it similar to frontcover */
-/* section.titlepage h2,
-section.halftitlepage h2 {
-  font-size: 1section.2em;
-  margin-bottom: 3em;
-} */
-
-/* a little larger font size, bring it towards the center of the page */
-/* section.titlepage h3,
-section.halftitlepage h3 {
-  font-size: 2em;
-  margin-bottom: 3em;
-} */
-
 section.titlepage h3,
 section.halftitlepage h3 {
   left: 0.5cm;
@@ -451,7 +458,7 @@ section.halftitlepage h3.first {
 section.titlepage h3.second,
 section.halftitlepage h3.second {
   bottom: 2.5cm;
-  font-size: 18pt;
+  font-size: 14pt;
 }
 
 /* smaller font, do away with the new line, no bold */

@@ -356,7 +356,16 @@ section.frontcover img {
   z-index: -1;
 }
 
-section.frontcover h1,
+section.frontcover h1 {
+  position: absolute;
+  padding: 0;
+  left: 0.5cm;
+  top: 0.5cm;
+  color: darkgray;
+  font-size: 36pt;
+  font-weight: normal;
+}
+
 section.titlepage h1,
 section.halftitlepage h1 {
   position: absolute;
@@ -368,7 +377,18 @@ section.halftitlepage h1 {
   font-weight: normal;
 }
 
-section.frontcover h2,
+section.frontcover h2 {
+  position: absolute;
+  padding: 0;
+  left: 0.5cm;
+  top: 1.5cm;
+  color: darkgrey;
+  font-size: 8pt;
+  font-weight: normal;
+  padding: 0.2em 5em 0.2em 1em;
+  letter-spacing: 0.15em;
+}
+
 section.titlepage h2,
 section.halftitlepage h2 {
   position: absolute;
@@ -382,7 +402,13 @@ section.halftitlepage h2 {
   letter-spacing: 0.15em;
 }
 
-section.frontcover h3,
+section.frontcover h3 {
+  position: absolute;
+  padding: 0;
+  color: #0f0f0f;
+  font-weight: bold;
+}
+
 section.titlepage h3,
 section.halftitlepage h3 {
   position: absolute;
@@ -392,14 +418,14 @@ section.halftitlepage h3 {
 }
 
 section.frontcover h3.first {
-  left: 0.5cm;
-  bottom: 2.75cm;
+  left: 0.75cm;
+  bottom: 1.75cm;
   font-size: 12pt;
 }
 
 section.frontcover h3.second {
-  left: 0.5cm;
-  bottom: 2cm;
+  left: 0.75cm;
+  bottom: 1.25cm;
   font-size: 11pt;
 }
 
