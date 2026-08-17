@@ -2,7 +2,9 @@
 
 This directory contains the complete source for the static online edition.
 The 1,224 article pages under `docs/` are generated from the four canonical
-HTML tomes in `../html/tomes/`; they should not be edited by hand.
+HTML tomes in `../html/tomes/`; they should not be edited by hand. The editor’s
+introduction at `docs/editors-introduction.md` is maintained by hand and is not
+removed by the generator.
 
 ## Regenerate the Markdown
 
