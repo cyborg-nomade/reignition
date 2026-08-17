@@ -1,0 +1,165 @@
+---
+title: "Implosion"
+---
+
+# Implosion
+
+<p class="article-meta">Tome I · Urban Future / BLOCK 1 - URBAN FUTURE · April 29, 2011</p>
+
+[Read the original post ↗](https://oldnicksite.wordpress.com/2011/04/29/implosion/){ .article-source }
+
+##### *We could be on the brink of a catastrophic implosion – but that’s OK*
+
+Science fiction has tended to extroversion. In America especially,
+where it found a natural home among an unusually future-oriented
+people, the iconic SF object was indisputably the space ship,
+departing the confines of Earth for untrammeled frontiers. The future
+was measured by the weakening of the terrestrial gravity well.
+
+Cyberpunk, arriving in the mid-1980s, delivered a cultural shock.
+William Gibson’s
+*[Neuromancer](https://www.amazon.com/Neuromancer-Gibson-William-Market-Paperback/dp/B015QNKWF8/)*
+still included some (Earth-orbital) space activity – and even a
+communication from Alpha Centauri — but its voyages now curved into
+the inner space of computer systems, projected through the starless
+tracts of Cyberspace. Interstellar communication bypassed biological
+species, and took place between planetary artificial intelligences.
+The United States of America seemed to have disappeared.
+
+Space and time had collapsed, into the ‘cyberspace matrix’ and the
+near-future. Even the abstract distances of social utopianism had been
+incinerated in the processing cores of micro-electronics. Judged by
+the criteria of mainstream science fiction, everything cyberpunk
+touched upon was gratingly close, and still closing in. The future had
+become imminent, and skin-tight.
+
+Gibson’s cities had not kept up with his wider – or narrower – vision.
+The urban spaces of his East Coast North America were still described
+as ‘The Sprawl’, as if stranded in a rapidly-obsolescing state of
+extension. The crushing forces of technological compression had leapt
+beyond social geography, sucking all historical animation from the
+decaying husks of ‘meat space’. Buildings were relics, bypassed by the
+leading edge of change.
+
+(Gibson’s Asian city-references are, however, far more intense,
+inspired by such innovations in urban compression as the Kowloon
+Walled City, and Japanese ‘coffin hotels’. In addition, Urbanists
+disappointed by first-wave cyberpunk have every reason to continue on
+into
+*[Spook Country](https://en.wikipedia.org/wiki/Spook_Country)*, where the influence of GPS-technology on the re-animation of urban
+space nourishes highly fertile speculations.)
+
+Star cruisers and alien civilizations belong to the same science
+fiction constellation, brought together by the assumption of
+expansionism. Just as, in the realm of fiction, this ‘space opera’
+future collapsed into cyberpunk, in (more or less) mainstream science
+– represented by SETI programs – it perished in the desert of the
+[Fermi Paradox](https://www.fermisparadox.com/). (OK, it’s true, Urban Future has a bizarrely nerdish obsession with
+this topic.)
+
+John M. Smart’s solution to the Fermi Paradox is integral to his
+broader ‘Speculations on Cosmic Culture’ and emerges naturally from
+[compressive development](https://www.accelerationwatch.com/developmentalsinghypothesis.html). Advanced intelligences do not expand into space, colonizing vast
+galactic tracts or dispersing self-replicating robot probes in a
+program of exploration. Instead, they implode, in a process of
+‘transcension’ — resourcing themselves primarily through the
+hyper-exponential efficiency gains of extreme miniaturization (through
+micro- and nano- to femto-scale engineering, of subatomic functional
+components). Such cultures or civilizations, nucleated upon
+self-augmenting technological intelligence, emigrate from the
+extensive universe in the direction of abysmal intensity, crushing
+themselves to near-black-hole densities at the edge of physical
+possibility. Through transcension, they withdraw from extensive
+communication (whilst, perhaps, leaving ‘radio fossils’ behind, before
+these blink-out into the silence of cosmic escape).
+
+If Smart’s speculations capture the basic outlines of a
+density-attracted developmental system, then cities should be expected
+to follow a comparable path, characterized by an escape into
+inwardness, an interior voyage, involution, or implosion. Approaching
+singularity on an accelerating trajectory, each city becomes
+increasingly inwardly directed, as it falls prey to the irresistible
+attraction of its own hyperbolic intensification, whilst the outside
+world fades to irrelevant static. Things disappear into cities, on a
+path of departure from the world. Their destination cannot be
+described within the dimensions of the known – and, indeed, tediously
+over-familiar – universe. Only in the deep exploratory interior is
+innovation still occurring, but there it takes place at an infernal,
+time-melting rate.
+
+What might Smart-type urban development suggest?
+
+(a) Devo Predictability. If urban development is neither randomly
+generated by internal processes, nor arbitrarily determined by
+external decisions, but rather guided predominantly by a developmental
+attractor (defined primarily by intensification), it follows that the
+future of cities is at least partially autonomous in regards to the
+national-political, global-economic, and cultural-architectural
+influences that are often invoked as fundamentally explanatory.
+Urbanism can be facilitated or frustrated, but its principal ‘goals’
+and practical development paths are, in each individual case,
+internally and automatically generated. When a city ‘works’ it is not
+because it conforms to an external, debatable ideal, but rather
+because it has found a route to cumulative intensification that
+strongly projects its ‘own’, singular and intrinsic, urban character.
+What a city wants is to become itself, but more — taking itself
+further and faster. That alone is urban flourishing, and understanding
+it is the key that unlocks the shape of any city’s future.
+
+(b) Metropolitanism. Methodological nationalism has been
+systematically over-emphasized in the social sciences (and not only at
+the expense of methodological individualism). A variety of influential
+urban thinkers, from Jane Jacobs to Peter Hall, have sought to correct
+this bias by focusing upon the significance, and partial autonomy, of
+urban economies, urban cultures, and municipal politics to aggregate
+prosperity, civilization, and golden ages. They have been right to do
+so. City growth is the basic socio-historical phenomenon.
+
+(c) Cultural Introversion. John Smart argues that an intelligence
+undergoing advanced relativistic development finds the external
+landscape increasingly uninformative and non-absorbing. The search for
+cognitive stimulation draws it inwards. As urban cultures evolve,
+through accelerating social complexity, they can be expected to
+manifest exactly this pattern. Their internal processes, of runaway
+intelligence implosion, become ever more gripping, engaging,
+surprising, productive, and educational, whilst the wider cultural
+landscape subsides into predictable tedium, of merely ethnographic and
+historical relevance. Cultural singularity becomes increasingly
+urban-futural (rather than ethno-historical), to the predictable
+disgruntlement of traditional nation states. Like Gibson’s Terrestrial
+Cyberspace, encountering another of its kind in orbit around Alpha
+Centauri, cosmopolitan connectivity is made through inner voyage,
+rather than expansionary outreach.
+
+(d) Scale Resonance. At the most abstract level, the relation between
+urbanism and microelectronics is scalar (fractal). The coming
+computers are closer to miniature cities than to artificial brains,
+dominated by traffic problems (congestion), migration /
+communications, zoning issues (mixed use), the engineering potential
+of new materials, questions of dimensionality (3D solutions to density
+constraints), entropy or heat / waste dissipation (recycling /
+reversible computation), and disease control (new viruses). Because
+cities, like computers, exhibit (accelerating phylogenetic)
+development within observable historical time, they provide a
+realistic model of improvement for compact information-processing
+machinery, sedimented as a series of practical solutions to the
+problem of relentless intensification. Brain-emulation might be
+considered an important computational goal, but it is near-useless as
+a developmental model. Intelligent microelectronic technologies
+contribute to the open-ended process of urban problem-solving, but
+they also recapitulate it at a new level.
+
+(e) Urban Matrix. Does urban development exhibit the real
+embryogenesis of artificial intelligence? Rather than the global
+Internet, military Skynet, or lab-based AI program, is it the path of
+the city, based on accelerating intensification (STEM compression),
+that best provides the conditions for emergent super-human
+computation? Perhaps the main reason for thinking so is that the
+problem of the city – density management and accentuation – already
+commits it to computational engineering, in advance of any
+deliberately guided research. The city, by its very nature,
+compresses, or intensifies, towards computronium. When the first AI
+speaks, it might be in the name of the city that it identifies as its
+body, although even that would be little more than a ‘radio fossil’ —
+a signal announcing the brink of silence — as the path of implosion
+deepens, and disappears into the alien interior.
