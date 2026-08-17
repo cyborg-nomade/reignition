@@ -13,6 +13,8 @@ with the page navigation, or search the complete collection.
 
 [Begin with the editor’s introduction →](editors-introduction.md){ .editor-intro-link }
 
+[Download PDF and EPUB editions →](downloads.md){ .editor-intro-link }
+
 <div class="tome-grid">
 <a class="tome-card" href="tome-1/">
   <img src="assets/covers/tome-1.png" alt="Cover of Tome I: Urban Future">

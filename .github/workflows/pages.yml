@@ -5,6 +5,7 @@ on:
     branches: [master]
     paths:
       - "site/**"
+      - "pdf-epub/**"
       - ".github/workflows/pages.yml"
   workflow_dispatch:
 
@@ -38,6 +39,11 @@ jobs:
       - name: Build the static site
         working-directory: site
         run: uv run mkdocs build --strict
+
+      - name: Add the downloadable editions
+        run: |
+          mkdir -p site/build/downloads
+          cp pdf-epub/*.pdf pdf-epub/*.epub site/build/downloads/
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5

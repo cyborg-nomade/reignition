@@ -191,6 +191,109 @@
   margin-bottom: 0.35rem;
 }
 
+.download-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 2.2rem 0;
+}
+
+.download-card {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  border: 1px solid var(--reignition-rule);
+  border-radius: 0.25rem;
+  padding: 1.35rem;
+}
+
+.download-card--featured {
+  grid-column: 1 / -1;
+  border-top: 0.22rem solid var(--reignition-accent);
+}
+
+.md-typeset .download-card h2 {
+  margin: 0.2rem 0 0.75rem;
+  border: 0;
+  padding: 0;
+  font-size: 1.25rem;
+}
+
+.download-card > p:not(.download-card__eyebrow) {
+  flex: 1;
+  margin: 0 0 1.2rem;
+  color: var(--reignition-muted);
+  font-size: 0.84rem;
+  line-height: 1.5;
+}
+
+[data-md-color-scheme="slate"] .download-card > p:not(.download-card__eyebrow) {
+  color: #aaa398;
+}
+
+.download-card__eyebrow {
+  margin: 0;
+  color: var(--reignition-accent);
+  font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.67rem;
+  font-weight: 750;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+}
+
+.download-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+}
+
+.download-button {
+  display: inline-flex;
+  flex-direction: column;
+  min-width: 8.5rem;
+  border: 1px solid var(--reignition-rule);
+  border-radius: 0.18rem;
+  padding: 0.62rem 0.78rem;
+  color: inherit !important;
+  font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.72rem;
+  font-weight: 750;
+  line-height: 1.15;
+  text-decoration: none;
+  transition: border-color 160ms ease, background 160ms ease;
+}
+
+.download-button span {
+  margin-top: 0.2rem;
+  color: var(--reignition-muted);
+  font-size: 0.62rem;
+  font-weight: 550;
+}
+
+.download-button:hover {
+  border-color: var(--reignition-accent);
+}
+
+.download-button--primary {
+  border-color: var(--reignition-ink);
+  background: var(--reignition-ink);
+  color: var(--reignition-paper) !important;
+}
+
+.download-button--primary span {
+  color: rgba(241, 238, 229, 0.7);
+}
+
+[data-md-color-scheme="slate"] .download-button--primary {
+  border-color: #e5e0d5;
+  background: #e5e0d5;
+  color: #171613 !important;
+}
+
+[data-md-color-scheme="slate"] .download-button--primary span {
+  color: rgba(23, 22, 19, 0.62);
+}
+
 @media screen and (max-width: 44rem) {
   .tome-grid {
     grid-template-columns: 1fr;
@@ -202,5 +305,13 @@
 
   .tome-card img {
     min-height: 11rem;
+  }
+
+  .download-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .download-card--featured {
+    grid-column: auto;
   }
 }

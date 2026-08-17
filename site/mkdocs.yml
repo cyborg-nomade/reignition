@@ -54,6 +54,7 @@ copyright: Edited by Uriel Fiori
 nav:
   - "Home": index.md
   - "Editor’s Introduction": editors-introduction.md
+  - "Downloads": downloads.md
   - "Tome I · Urban Future":
       - "Overview": tome-1/index.md
       - "BLOCK 1 - URBAN FUTURE":

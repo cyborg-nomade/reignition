@@ -302,6 +302,8 @@ def write_home(tomes: Iterable[Page]) -> None:
         "",
         "[Begin with the editor’s introduction →](editors-introduction.md){ .editor-intro-link }",
         "",
+        "[Download PDF and EPUB editions →](downloads.md){ .editor-intro-link }",
+        "",
         '<div class="tome-grid">',
         *cards,
         "</div>",
@@ -338,6 +340,7 @@ def write_config(tomes: list[Page]) -> None:
     nav: list[tuple[str, object]] = [
         ("Home", "index.md"),
         ("Editor’s Introduction", "editors-introduction.md"),
+        ("Downloads", "downloads.md"),
     ]
     nav.extend((tome.title, nav_entries(tome)) for tome in tomes)
     config = [
